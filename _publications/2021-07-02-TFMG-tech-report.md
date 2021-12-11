@@ -13,7 +13,7 @@ Reproducibility: Guidance for Practitioners and
 TensorFlow Model Garden Contributors.&quot; <i>arXiv</i>. 1(1).'
 ---
 
-[Download paper here](http://academicpages.github.io/files/TFMG\ tech\ report.pdf)
+[Download](http://academicpages.github.io/files/TFMGTechReport.pdf)
 
 ##Abstract
 Deep learning techniques are becoming a fundamental tool for scientific and engineering progress. In recent years these techniques have been successfully applied in contexts from spam filtering to astronomy.
