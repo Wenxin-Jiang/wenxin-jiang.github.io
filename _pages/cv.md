@@ -11,49 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Physics, Southeast University, 2020
+* Ph.D in Computer Engineering, Purdue University, 2024 (expected)
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Research Assistant (Jan 2021 - present)
+  * ECE @ Purdue
+  * Topic: Software engineering for ML reproducibility
+  * Supervisor: Dr. James Davis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Undergraduate Research Assistant (Fall 2018 - Spring 2020)
+  * Southeast University
+  * Topic: Preparation and Characterization of Charge-ordered Multiferroic Materials
+  * Supervisor: Dr. Shuai Dong
 
-Publications
+* Undergraduate Research Assistant (Fall 2017 - Fall 2018)
+  * Southeast University
+  * Topic: Experimental observation of complex Kadomtsev-petviashvili solitons
+  * Supervisor: Dr. Shihua Chen
+
+Work Experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* TensorFlow Model Developer (Fall 2021 - present)
+  * Google x Purdue
+  * Topic: Develop high-quality and reproducible ML models
+
+* Intern (Summer 2018)
+  * China Merchants Bank
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

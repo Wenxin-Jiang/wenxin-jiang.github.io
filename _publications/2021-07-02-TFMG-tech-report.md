@@ -8,9 +8,9 @@ excerpt:
 date: 2021-07-02
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2107.00821.pdf'
-citation: 'Jiang, Wenxin. (2021). &quot;PAn Experience Report on Machine Learning
+citation: 'Jiang, Wenxin. (2021). &quot;An Experience Report on Machine Learning
 Reproducibility: Guidance for Practitioners and
-TensorFlow Model Garden Contributors.&quot; <i>arXiv</i>. 1(1).'
+TensorFlow Model Garden Contributors.&quot; <i>arXiv</i>.'
 ---
 
 [Download](http://academicpages.github.io/files/TFMGTechReport.pdf)
