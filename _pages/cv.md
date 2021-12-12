@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[View My Curriculum Vitae [PDF]](https://wenxin-jiang.github.io/files/CV.pdf)
+
+
 Education
 ======
 * B.S. in Applied Physics, Southeast University, 2020
@@ -17,19 +20,19 @@ Education
 Research Experience
 ======
 * Graduate Research Assistant (Jan 2021 - present)
-  * ECE @ Purdue
+  * Elmore Family School of ECE, Purdue
   * Topic: Software engineering for ML reproducibility
-  * Supervisor: Dr. James Davis
+  * Supervisor: [Dr. James Davis](https://davisjam.github.io/)
 
 * Undergraduate Research Assistant (Fall 2018 - Spring 2020)
-  * Southeast University
+  * Department of Physics, Southeast University
   * Topic: Preparation and Characterization of Charge-ordered Multiferroic Materials
-  * Supervisor: Dr. Shuai Dong
+  * Supervisor: [Dr. Shuai Dong](https://physics.seu.edu.cn/sdong/)
 
 * Undergraduate Research Assistant (Fall 2017 - Fall 2018)
-  * Southeast University
+  * Department of Physics, Southeast University
   * Topic: Experimental observation of complex Kadomtsev-petviashvili solitons
-  * Supervisor: Dr. Shihua Chen
+  * Supervisor: [Dr. Shihua Chen](https://physics.seu.edu.cn/2019/0116/c23159a258528/page.htm)
 
 Work Experience
 ======
