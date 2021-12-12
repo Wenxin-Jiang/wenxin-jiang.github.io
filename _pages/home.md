@@ -11,5 +11,5 @@ redirect_from:
 
 Hi, I'm Wenxin Jiang!
 I am currently a Ph.D. student in ECE@Purdue. I am supervised by [Dr. James Davis](https://davisjam.github.io/). 
-My research interests lie at the intersection of Software Engineering and Machine Leanring.
+My research interests lie at the intersection of Software Engineering and Machine Learning.
 I like learning cutting-edge technology, working on undiscovered knowledge, and contributing to society.
