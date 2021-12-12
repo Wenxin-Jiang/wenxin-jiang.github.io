@@ -10,4 +10,4 @@ redirect_from:
 
 
 Hi, I'm Wenxin Jiang!
-I am currently a Ph.D. student at Purdue University, in the department of Electrical and Computer Engineering. My research interests lie at the intersection of Software Engineering and Machine Leanring. 
+I am currently a Ph.D. student in [DualityLab](https://davisjam.github.io/) in ECE@Purdue University. My research interests lie at the intersection of Software Engineering and Machine Leanring. 
