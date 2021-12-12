@@ -14,8 +14,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Physics, Southeast University, 2020
-* Ph.D in Computer Engineering, Purdue University, 2024 (expected)
+
+* Ph.D in Computer Engineering, Purdue University, 2020 - present
+
+* Study Abroad Program in Engineering Physics, UC Santa Barbara, 2019
+ 
+* B.S. in Applied Physics, Southeast University, 2016 - 2020
 
 Research Experience
 ======
