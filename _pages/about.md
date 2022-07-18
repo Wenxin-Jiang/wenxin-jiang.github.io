@@ -10,5 +10,5 @@ redirect_from:
 
 
 I am currently a Ph.D. student at ECE@Purdue. I am supervised by [Dr. James Davis](https://davisjam.github.io/). 
-My research interests lie at the intersection of Software Engineering and Machine Learning.
+My research interest is Software Engineering for Machine Learning, especially the trustworthiness of Pre-trained Models.
 I like learning cutting-edge technology, working on undiscovered knowledge, and contributing to society.
