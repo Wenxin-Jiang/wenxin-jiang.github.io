@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-[View My Curriculum Vitae [PDF]](https://wenxin-jiang.github.io/files/CV.pdf)
+[CV (long) [PDF]](https://wenxin-jiang.github.io/files/CV_long.pdf)
+
+
+[CV (short) [PDF]](https://wenxin-jiang.github.io/files/CV_short.pdf)
 
 
 Education
