@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV (long) [PDF]](https://wenxin-jiang.github.io/files/CV_long.pdf)
+[CV (long) [PDF]](https://wenxin-jiang.github.io/files/CV.pdf)
 
 
 [CV (short) [PDF]](https://wenxin-jiang.github.io/files/CV_short.pdf)
