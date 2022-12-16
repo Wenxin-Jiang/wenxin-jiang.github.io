@@ -1,108 +1,119 @@
+#!/usr/bin/env python3
+# Publications markdown generator for academicpages
+# Data format: JSON, see publications.json for examples
+# Caution: Overwrites ../auto-publications.md
 
-# coding: utf-8
+import json
+import sys
 
-# # Publications markdown generator for academicpages
-# 
-# Takes a TSV of publications with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook, with the core python code in publications.py. Run either from the `markdown_generator` folder after replacing `publications.tsv` with one that fits your format.
-# 
-# TODO: Make this work with BibTex and other databases of citations, rather than Stuart's non-standard TSV format and citation style.
-# 
+PUBFILE = sys.argv[1]
+print("Pubfile: " + PUBFILE)
 
-# ## Data format
-# 
-# The TSV needs to have the following columns: pub_date, title, venue, excerpt, citation, site_url, and paper_url, with a header at the top. 
-# 
-# - `excerpt` and `paper_url` can be blank, but the others must have values. 
-# - `pub_date` must be formatted as YYYY-MM-DD.
-# - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/publications/YYYY-MM-DD-[url_slug]`
+JOURNAL_PUB = "journal"
+CONFERENCE_PUB = "conference"
+WORKSHOP_PUB = "workshop"
+ARXIV_PUB = "arxiv"
+DISSERTATION_PUB = "dissertation"
+PATENT_PUB = "patent"
+POSTER_PUB = "poster"
 
+def writeOutPrefix(handle):
+    handle.write("""---
+layout: single
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
-# ## Import pandas
-# 
-# We are using the very handy pandas library for dataframes.
+Here are the publications to which I have contributed.
+To see them organized by project, see [here](/research).
+""")
 
-# In[2]:
+FILE_PATH = "{{ site.url }}/{{ site.baseurl }}/{{ site.filesurl }}/publications"
 
-import pandas as pd
+def makeLink(url):
+    if 'http' in url:
+        return url 
+    else:
+        return "{}/{}".format(FILE_PATH, url)
 
-
-# ## Import TSV
-# 
-# Pandas makes this easy with the read_csv function. We are using a TSV, so we specify the separator as a tab, or `\t`.
-# 
-# I found it important to put this data in a tab-separated values format, because there are a lot of commas in this kind of data and comma-separated values can get messed up. However, you can modify the import statement, as pandas also has read_excel(), read_json(), and others.
-
-# In[3]:
-
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
-publications
-
-
-# ## Escape special characters
-# 
-# YAML is very picky about how it takes a valid string, so we are replacing single and double quotes (and ampersands) with their HTML encoded equivilents. This makes them look not so readable in raw format, but they are parsed and rendered nicely.
-
-# In[4]:
-
-html_escape_table = {
-    "&": "&amp;",
-    '"': "&quot;",
-    "'": "&apos;"
-    }
-
-def html_escape(text):
-    """Produce entities within text."""
-    return "".join(html_escape_table.get(c,c) for c in text)
-
-
-# ## Creating the markdown files
-# 
-# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string (```md```) that contains the markdown for each type. It does the YAML metadata first, then does the description for the individual page. If you don't want something to appear (like the "Recommended citation")
-
-# In[5]:
-
-import os
-for row, item in publications.iterrows():
+def pub2md(pub):
+    links = []
+    if 'paperBasename' in pub and pub['paperBasename']:
+        links.append('<a href="{}"><i class="fas fa-file-pdf"></i></a>'.format(
+            makeLink(pub['paperBasename'])
+        ))
+    if 'slidesBasename' in pub and pub['slidesBasename']:
+        links.append('<a href="{}"><i class="fas fa-file-powerpoint"></i></a>'.format(
+            makeLink(pub['slidesBasename'])
+        ))
+    if 'artifactURL' in pub and pub['artifactURL']:
+        links.append('<a href="{}"><i class="fas fa-file-code"></i></a>'.format(
+            makeLink(pub['artifactURL'])
+        ))
+    if 'videoURL' in pub and pub['videoURL']:
+        links.append('<a href="{}"><i class="fas fa-video"></i></a>'.format(
+            makeLink(pub['videoURL'])
+        ))
+    if 'blogURL' in pub and pub['blogURL']:
+        links.append('<a href="{}"><i class="fab fa-medium"></i></a>'.format(
+            makeLink(pub['blogURL'])
+        ))
+    if 'bestPaperAward' in pub and pub['bestPaperAward']:
+        links.append('[Best Paper Award](){: .btn}')
     
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
-    year = item.pub_date[:4]
-    
-    ## YAML variables
-    
-    md = "---\ntitle: \""   + item.title + '"\n'
-    
-    md += """collection: publications"""
-    
-    md += """\npermalink: /publication/""" + html_filename
-    
-    if len(str(item.excerpt)) > 5:
-        md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
-    
-    md += "\ndate: " + str(item.pub_date) 
-    
-    md += "\nvenue: '" + html_escape(item.venue) + "'"
-    
-    if len(str(item.paper_url)) > 5:
-        md += "\npaperurl: '" + item.paper_url + "'"
-    
-    md += "\ncitation: '" + html_escape(item.citation) + "'"
-    
-    md += "\n---"
-    
-    ## Markdown description for individual page
-    
-    if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
-        
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
-        
-    md += "\nRecommended citation: " + item.citation
-    
-    md_filename = os.path.basename(md_filename)
-       
-    with open("../_publications/" + md_filename, 'w') as f:
-        f.write(md)
+    if len(pub['authors']) == 1:
+        authList = pub['authors'][0]
+    elif len(pub['authors']) == 2:
+        authList = ' and '.join(pub['authors'])
+    else:
+        authList = ', '.join(pub['authors'][:-1])
+        authList += ", and " + pub['authors'][-1]
 
+    cite = "*{}*.  \n {}.  \n {} {}.  ".format(
+        pub['title'],
+        authList,
+        pub['venue'], pub['year'],
+    )
+    return cite + "\n " + ' '.join(links)
 
+def writePubs(handle, headingTitle, pubs):
+    handle.write('\n## {}\n\n'.format(headingTitle))
+    for i, pub in enumerate(pubs):
+        handle.write("{}. {}\n".format(i+1, pub2md(pub)))
+
+with open(PUBFILE, 'r') as infile, open('../auto-publications.md', 'w') as outfile:
+    writeOutPrefix(outfile)
+    pubs = json.load(infile)['publications']
+    pubs = sorted(pubs, key=lambda p: p['year'], reverse=True)
+
+    confPubs = [ pub for pub in pubs if pub['type'] == CONFERENCE_PUB ]
+    journalPubs = [ pub for pub in pubs if pub['type'] == JOURNAL_PUB ]
+    workshopPubs = [ pub for pub in pubs if pub['type'] == WORKSHOP_PUB ]
+    arxivPubs = [ pub for pub in pubs if pub['type'] == ARXIV_PUB ]
+    patentPubs = [ pub for pub in pubs if pub['type'] == PATENT_PUB ]
+    posterPubs = [ pub for pub in pubs if pub['type'] == POSTER_PUB ]
+    dissertationPubs = [ pub for pub in pubs if pub['type'] == DISSERTATION_PUB ]
+
+    if confPubs:
+        print("Writing the {} conference pubs".format(len(confPubs)))
+        writePubs(outfile, "Peer-reviewed conference papers (full and short)", confPubs)
+    if journalPubs:
+        print("Writing the {} journal pubs".format(len(journalPubs)))
+        writePubs(outfile, "Peer-reviewed journal papers", journalPubs)
+    if workshopPubs:
+        print("Writing the {} workshop pubs".format(len(workshopPubs)))
+        writePubs(outfile, "Peer-reviewed workshop papers", workshopPubs)
+    if arxivPubs:
+        print("Writing the {} arxiv pubs".format(len(arxivPubs)))
+        writePubs(outfile, "arXiv papers", arxivPubs)
+    if patentPubs:
+        print("Writing the {} patents".format(len(patentPubs)))
+        writePubs(outfile, "US Patents", patentPubs)
+    if posterPubs:
+        print("Writing the {} posters".format(len(posterPubs)))
+        writePubs(outfile, "Posters", posterPubs)
+    if dissertationPubs:
+        print("Writing the {} dissertations".format(len(dissertationPubs)))
+        writePubs(outfile, "Dissertation", dissertationPubs)
+    outfile.write('\n')
