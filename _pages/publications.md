@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. *PTMTorrent: A Dataset for Mining Open-source Pre-trained Model Packages*.  
+ **Jiang**, Synovic, Hyatt, Schorlemmer, Sethi, Lu, Thiruvathukal, and Davis.
+ Proceedings of the 20th International Conference on Mining Software Repositories (MSR) 2023.  
+ <a href="{{ site.url }}/files/publications/JiangSynovicJajalSchorlemmerTewariPareekThiruvathukalDavis-PTMTorrent-MSR23.pdf"><i class="fas fa-file-pdf"></i></a> 
+ <!-- <a href="{{ site.url }}/files/publications/MontesPeerapatanapokinSchultzGuoJiangDavis-ModelZoo-FSE22IVR-slides.pptx"><i class="fas fa-file-powerpoint"></i></a> -->
 
 1. *An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry*.  
  **Jiang**, Synovic, Hyatt, Schorlemmer, Sethi, Lu, Thiruvathukal, and Davis.
