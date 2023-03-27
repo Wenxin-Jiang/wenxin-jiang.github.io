@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. *An Experience Report on Machine Learning Reproducibility: Guidance for Practitioners and TensorFlow Model Garden Contributors*.  
+ **Jiang**, Banna, Vivek, Goel, Synovic, Thiruvathukal, and Davis.  
+ arXiv 2023.  
+ <a href="https://arxiv.org/abs/2303.07476"><i class="fas fa-file-pdf"></i></a>
+
+
 1. *PTMTorrent: A Dataset for Mining Open-source Pre-trained Model Packages*.  
  **Jiang**, Synovic, Hyatt, Schorlemmer, Sethi, Lu, Thiruvathukal, and Davis.
  Proceedings of the 20th International Conference on Mining Software Repositories (MSR) 2023.  
@@ -35,7 +41,8 @@ author_profile: true
  Banna, Chinnakotla, Yan, Vegesana, Vivek, Krishnappa, **Jiang**, Lu, Thiruvathukal, and Davis.  
  arXiv 2021.  
  <a href="https://arxiv.org/abs/2107.00821"><i class="fas fa-file-pdf"></i></a>
- 1. *Establishing Trust in Vehicle-to-Vehicle Coordination: A Sensor Fusion Approach*.  
+
+1. *Establishing Trust in Vehicle-to-Vehicle Coordination: A Sensor Fusion Approach*.  
  Veselsky, West, Ahlgren, Goel, **Jiang**, Lee, Kim, Davis, Thiruvathukal, and Klingensmith.  
  Proceedings of the 23rd Annual International Workshop on Mobile Computing Systems and Application (HotMobile) 2022.  
  <a href="{{ site.url }}/files/publications/VeselskyWestAhlgrenGoelJiangLeeKimDavisThiruvathukalKlingensmith-V2VTrust-HotMobile.pdf"><i class="fas fa-file-pdf"></i></a>
