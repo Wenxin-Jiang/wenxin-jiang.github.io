@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. *An Experience Report on Machine Learning Reproducibility: Guidance for Practitioners and TensorFlow Model Garden Contributors*.  
+1. *Challenges and Practices of Deep Learning Model Reengineering: A Case Study on Computer Vision*.  
  **Jiang**, Banna, Vivek, Goel, Synovic, Thiruvathukal, and Davis.  
  arXiv 2023.  
  <a href="https://arxiv.org/abs/2303.07476"><i class="fas fa-file-pdf"></i></a>
