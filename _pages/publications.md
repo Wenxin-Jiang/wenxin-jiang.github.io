@@ -26,7 +26,7 @@ author_profile: true
  **Jiang**, Synovic, Hyatt, Schorlemmer, Sethi, Lu, Thiruvathukal, and Davis.
  Proceedings of the 45th International Conference on Software Engineering (ICSE) 2023.  
  <a href="{{ site.url }}/files/publications/ICSE23-PTMReuse.pdf"><i class="fas fa-file-pdf"></i></a> 
- <!-- <a href="{{ site.url }}/files/publications/MontesPeerapatanapokinSchultzGuoJiangDavis-ModelZoo-FSE22IVR-slides.pptx"><i class="fas fa-file-powerpoint"></i></a> -->
+ <a href="{{ site.url }}/files/publications/ICSE23-PTMReuse-slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
 
 1. *Discrepancies among Pre-trained Deep Neural Networks: A New Threat to Model Zoo Reliability*.  
  Montes, Peerapatanapokin, Schultz, Guo, **Jiang**, and Davis.  
