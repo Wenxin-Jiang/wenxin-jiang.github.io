@@ -4,6 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+1. *Reusing Deep Learning Models: Challenges and Directions in Software Engineering*.  
+ Davis, Jajal, **Jiang**, Schorlemmer, N. Synovic, and G.K. Thiruvathukal.
+ Proceedings of the IEEE John Vincent Atanasoff Symposium on Modern Computing (JVA) 2023.
+ <!-- <a href="https://arxiv.org/abs/2303.17708"><i class="fas fa-file-pdf"></i></a> -->
+
+
 1. *Analysis of Failures and Risks in Deep Learning Model Converters: A Case Study in the ONNX Ecosystem*.  
  Jajal, **Jiang**, Tewari, Woo, Lu, Thiruvathukal, and Davis.  
  arXiv 2023.  
