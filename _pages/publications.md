@@ -8,7 +8,8 @@ author_profile: true
 1. *Reusing Deep Learning Models: Challenges and Directions in Software Engineering*.  
  Davis, Jajal, **Jiang**, Schorlemmer, Synovic, and Thiruvathukal.
  Proceedings of the IEEE John Vincent Atanasoff Symposium on Modern Computing (JVA) 2023.
- <a href="{{ site.url }}files/publications/JVASymposium23_Deep_Learning_Model_Reuse.pdf"><i class="fas fa-file-pdf"></i></a> 
+ 
+ <a href="{{ site.url }}/files/publications/JVASymposium23_Deep_Learning_Model_Reuse.pdf"><i class="fas fa-file-pdf"></i></a> 
 
 1. *Analysis of Failures and Risks in Deep Learning Model Converters: A Case Study in the ONNX Ecosystem*.  
  Jajal, **Jiang**, Tewari, Woo, Lu, Thiruvathukal, and Davis.  
