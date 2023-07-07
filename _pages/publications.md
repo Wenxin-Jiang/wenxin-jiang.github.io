@@ -8,8 +8,7 @@ author_profile: true
 1. *Reusing Deep Learning Models: Challenges and Directions in Software Engineering*.
   Davis, Jajal, **Jiang**, Schorlemmer, Synovic, and Thiruvathukal.
   Proceedings of the IEEE John Vincent Atanasoff Symposium on Modern Computing (JVA) 2023.
-  <a href="{{ site.url }}/files/publications/JVASymposium23_Deep_Learning_Model_Reuse.pdf"><i class="fas fa-file-pdf"></i></a> 
-  <a href="{{ site.url }}/files/JVA_Slides.pdf"><i class="fas fa-file-powerpoint"></i></a>
+  <a href="{{ site.url }}/files/publications/JVASymposium23_Deep_Learning_Model_Reuse.pdf"><i class="fas fa-file-pdf"></i></a> <a href="{{ site.url }}/files/JVA_Slides.pdf"><i class="fas fa-file-powerpoint"></i></a>
 
 1. *Analysis of Failures and Risks in Deep Learning Model Converters: A Case Study in the ONNX Ecosystem*.  
  Jajal, **Jiang**, Tewari, Woo, Lu, Thiruvathukal, and Davis.  
@@ -26,14 +25,14 @@ author_profile: true
 1. *PTMTorrent: A Dataset for Mining Open-source Pre-trained Model Packages*.  
  **Jiang**, Synovic, Hyatt, Schorlemmer, Sethi, Lu, Thiruvathukal, and Davis.
  Proceedings of the 20th International Conference on Mining Software Repositories (MSR) 2023.  
- <a href="{{ site.url }}/files/publications/JiangSynovicJajalSchorlemmerTewariPareekThiruvathukalDavis-PTMTorrent-MSR23.pdf"><i class="fas fa-file-pdf"></i></a> 
+ <a href="{{ site.url }}/files/publications/JiangSynovicJajalSchorlemmerTewariPareekThiruvathukalDavis-PTMTorrent-MSR23.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://medium.com/@jiang784/an-empirical-study-of-pre-trained-model-reuse-in-the-hugging-face-deep-learning-model-registry-6a343597aaf0"><i class="fab fa-medium"></i></a>
  <!-- <a href="{{ site.url }}/files/publications/MontesPeerapatanapokinSchultzGuoJiangDavis-ModelZoo-FSE22IVR-slides.pptx"><i class="fas fa-file-powerpoint"></i></a> -->
 
 1. *An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry*.  
  **Jiang**, Synovic, Hyatt, Schorlemmer, Sethi, Lu, Thiruvathukal, and Davis.
  Proceedings of the 45th International Conference on Software Engineering (ICSE) 2023.  
  <a href="{{ site.url }}/files/publications/ICSE23-PTMReuse.pdf"><i class="fas fa-file-pdf"></i></a> 
- <a href="{{ site.url }}/files/publications/ICSE23-PTMReuse-slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
+ <a href="{{ site.url }}/files/publications/ICSE23-PTMReuse-slides.pptx"><i class="fas fa-file-powerpoint"></i></a><a href="https://medium.com/@jiang784/an-empirical-study-of-pre-trained-model-reuse-in-the-hugging-face-deep-learning-model-registry-6a343597aaf0"><i class="fab fa-medium"></i></a>
 
 1. *Discrepancies among Pre-trained Deep Neural Networks: A New Threat to Model Zoo Reliability*.  
  Montes, Peerapatanapokin, Schultz, Guo, **Jiang**, and Davis.  
