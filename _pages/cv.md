@@ -27,7 +27,7 @@ Research Experience
 ======
 * Graduate Research Assistant (Jan 2021 - present)
   * Elmore Family School of ECE, Purdue
-  * Duties: Researching on Software Engineering for ML reproducibility.
+  * Duties:  Researching on Software Engineering for Machine Learning, especially the reusability and trustworthiness of pre-trained DNN models
   * Supervisor: [Dr. James Davis](https://davisjam.github.io/)
 
 * Graduate Teaching Assistant (Jan 2022 - May 2022)
