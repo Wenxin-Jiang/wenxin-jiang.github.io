@@ -5,11 +5,37 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. *Reusing Deep Learning Models: Challenges and Directions in Software Engineering*.   
+ Davis, Jajal, **Jiang**, Schorlemmer, Synovic, and Thiruvathukal.  
+ Proceedings of the IEEE John Vincent Atanasoff Symposium on Modern Computing (JVA) 2023.  
+ <a href="{{ site.url }}/files/publications/JVASymposium23_Deep_Learning_Model_Reuse.pdf"><i class="fas fa-file-pdf"></i></a>
+ <a href="{{ site.url }}/files/publications/JVA_Slides.pdf"><i class="fas fa-file-powerpoint"></i></a>
+
+1. *Analysis of Failures and Risks in Deep Learning Model Converters: A Case Study in the ONNX Ecosystem*.  
+ Jajal, **Jiang**, Tewari, Woo, Lu, Thiruvathukal, and Davis.  
+ arXiv 2023.  
+ <a href="https://arxiv.org/abs/2303.17708"><i class="fas fa-file-pdf"></i></a>
+
+1. *Challenges and Practices of Deep Learning Model Reengineering: A Case Study on Computer Vision*.  
+ **Jiang**, Banna, Vivek, Goel, Synovic, Thiruvathukal, and Davis.  
+ arXiv 2023.  
+ <a href="https://arxiv.org/abs/2303.07476"><i class="fas fa-file-pdf"></i></a>
+
+
+1. *PTMTorrent: A Dataset for Mining Open-source Pre-trained Model Packages*.  
+ **Jiang**, Synovic, Hyatt, Schorlemmer, Sethi, Lu, Thiruvathukal, and Davis.
+ Proceedings of the 20th International Conference on Mining Software Repositories (MSR) 2023.  
+ <a href="{{ site.url }}/files/publications/JiangSynovicJajalSchorlemmerTewariPareekThiruvathukalDavis-PTMTorrent-MSR23.pdf"><i class="fas fa-file-pdf"></i></a>
+ <a href="{{ site.url }}/files/Jiang-PTMTorrent-MSR23-slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
+ <a href="https://medium.com/@jiang784/an-empirical-study-of-pre-trained-model-reuse-in-the-hugging-face-deep-learning-model-registry-6a343597aaf0"><i class="fab fa-medium"></i></a>
+ <!-- <a href="{{ site.url }}/files/publications/MontesPeerapatanapokinSchultzGuoJiangDavis-ModelZoo-FSE22IVR-slides.pptx"><i class="fas fa-file-powerpoint"></i></a> -->
+
 1. *An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry*.  
  **Jiang**, Synovic, Hyatt, Schorlemmer, Sethi, Lu, Thiruvathukal, and Davis.
  Proceedings of the 45th International Conference on Software Engineering (ICSE) 2023.  
- <a href="{{ site.url }}/files/publications/ICSE23PTMReuse.pdf"><i class="fas fa-file-pdf"></i></a> 
- <!-- <a href="{{ site.url }}/files/publications/MontesPeerapatanapokinSchultzGuoJiangDavis-ModelZoo-FSE22IVR-slides.pptx"><i class="fas fa-file-powerpoint"></i></a> -->
+ <a href="{{ site.url }}/files/publications/ICSE23-PTMReuse.pdf"><i class="fas fa-file-pdf"></i></a> 
+ <a href="{{ site.url }}/files/publications/ICSE23-PTMReuse-slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
+ <a href="https://medium.com/@jiang784/an-empirical-study-of-pre-trained-model-reuse-in-the-hugging-face-deep-learning-model-registry-6a343597aaf0"><i class="fab fa-medium"></i></a>
 
 1. *Discrepancies among Pre-trained Deep Neural Networks: A New Threat to Model Zoo Reliability*.  
  Montes, Peerapatanapokin, Schultz, Guo, **Jiang**, and Davis.  
@@ -30,7 +56,8 @@ author_profile: true
  Banna, Chinnakotla, Yan, Vegesana, Vivek, Krishnappa, **Jiang**, Lu, Thiruvathukal, and Davis.  
  arXiv 2021.  
  <a href="https://arxiv.org/abs/2107.00821"><i class="fas fa-file-pdf"></i></a>
- 1. *Establishing Trust in Vehicle-to-Vehicle Coordination: A Sensor Fusion Approach*.  
+
+1. *Establishing Trust in Vehicle-to-Vehicle Coordination: A Sensor Fusion Approach*.  
  Veselsky, West, Ahlgren, Goel, **Jiang**, Lee, Kim, Davis, Thiruvathukal, and Klingensmith.  
  Proceedings of the 23rd Annual International Workshop on Mobile Computing Systems and Application (HotMobile) 2022.  
  <a href="{{ site.url }}/files/publications/VeselskyWestAhlgrenGoelJiangLeeKimDavisThiruvathukalKlingensmith-V2VTrust-HotMobile.pdf"><i class="fas fa-file-pdf"></i></a>
