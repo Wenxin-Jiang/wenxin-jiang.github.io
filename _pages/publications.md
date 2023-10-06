@@ -4,15 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. *PeaTMOSS: Mining Pre-Trained Models in Open-Source Software*.
-**Jiang**, Jones, Yasmin, Synovic, Sashti, Chen, Thiruvathukal, Yuan, and Davis\
-arXiv 2023
+1. *PeaTMOSS: Mining Pre-Trained Models in Open-Source Software*.  
+**Jiang**, Jones, Yasmin, Synovic, Sashti, Chen, Thiruvathukal, Yuan, and Davis.  
+arXiv 2023  
  <a href="https://arxiv.org/pdf/2310.03620"><i class="fas fa-file-pdf"></i></a>
 
 
-1. *Exploring Naming Conventions (and Defects) of Pre-trained Deep Learning Models in Hugging Face and Other Model Hubs*.
+1. *Exploring Naming Conventions (and Defects) of Pre-trained Deep Learning Models in Hugging Face and Other Model Hubs*.  
 **Jiang**, Cheung, Thiruvathukal, Davis.  
-arXiv 2023
+arXiv 2023  
  <a href="https://arxiv.org/pdf/2310.01642"><i class="fas fa-file-pdf"></i></a>
 
 
