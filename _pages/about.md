@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. ~~student~~ candidadte (Dec, 2023) at ECE@Purdue. I am supervised by [Dr. James Davis](https://davisjam.github.io/). 
+I am currently a Ph.D. ~~student~~ candidate (Dec, 2023) at ECE@Purdue. I am supervised by [Dr. James Davis](https://davisjam.github.io/). 
 
 My research interest lies in *applying software engineering approaches to enhancing trustworthiness and reusability in pre-trained deep learning model ecosystems*.
 
