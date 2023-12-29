@@ -13,6 +13,6 @@ I am currently a Ph.D. ~~student~~ candidate (Dec, 2023) at ECE@Purdue. I am sup
 
 My research interest lies in *applying software engineering approaches to enhancing trustworthiness and reusability in pre-trained deep learning model ecosystems*.
 
-My work has been published to **ICSE'23, ESEC/FSE'22, ASE'22, MSR'23, and SCORED'22**.
+My work has been published at **ICSE'23, ESEC/FSE'22, ASE'22, MSR'23, and SCORED'22**.
 
 I am also the leader of Purdue's [VIP team](https://engineering.purdue.edu/VIP/teams/tensorflow) where we collaborate with Google and contribute state-of-the-art deep learning model to *TensorFlow Model Garden*.
