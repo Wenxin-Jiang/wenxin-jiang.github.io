@@ -15,4 +15,4 @@ My research interest lies in *applying software engineering approaches to enhanc
 
 My work has been published at **ICSE'23, ESEC/FSE'22, ASE'22, MSR'23, and SCORED'22**.
 
-I am also the leader of Purdue's [VIP team](https://engineering.purdue.edu/VIP/teams/tensorflow) where we collaborate with Google and contribute state-of-the-art deep learning model to *TensorFlow Model Garden*.
+I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](https://engineering.purdue.edu/VIP/teams/tensorflow) (previously [TensorFlow Model Garden VIP team](https://engineering.purdue.edu/VIP/teams/pretrained-models-in-deep-learning) where we collaborated with Google).
