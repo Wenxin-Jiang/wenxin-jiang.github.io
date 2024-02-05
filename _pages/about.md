@@ -11,8 +11,8 @@ redirect_from:
 
 I am currently a Ph.D. ~~student~~ candidate (Dec, 2023) at ECE@Purdue. I am supervised by [Dr. James Davis](https://davisjam.github.io/). 
 
-My research interest lies in *applying software engineering approaches to enhancing trustworthiness and reusability in pre-trained deep learning model ecosystems*.
+My research interest lies in *applying software engineering approaches to enhancing security and reusability in pre-trained deep learning model ecosystems*.
 
-My work has been published at **ICSE'23, ESEC/FSE'22, ASE'22, MSR'23, and SCORED'22**.
+My work has been published at **MSR'24, ICSE'23, ESEC/FSE'22, ASE'22, MSR'23, and SCORED'22**.
 
 I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](https://engineering.purdue.edu/VIP/teams/tensorflow) (previously [TensorFlow Model Garden VIP team](https://engineering.purdue.edu/VIP/teams/pretrained-models-in-deep-learning) where we collaborated with Google).
