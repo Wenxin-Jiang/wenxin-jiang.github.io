@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Hi, I'm Wenxin Jiang!"
 author_profile: true
 redirect_from: 
   - /about/
