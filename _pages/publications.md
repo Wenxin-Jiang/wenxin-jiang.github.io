@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 1. *PeaTMOSS: Mining Pre-Trained Models in Open-Source Software*.   
- **Jiang**, Jones, Yasmin, Synovic, Sashti, Chen, Thiruvathukal, Yuan, and Davis.   
+ **Jiang**, Yasmin, Jones, Synovic, Kuo, Bielanski, Tian, Thiruvathukal, and Davis.   
  Proceedings of the 21th International Conference on Mining Software Repositories (MSR) 2024.  
  <a href="{{ site.url }}/files/publications/MSR24_PeaTMOSS.pdf"><i class="fas fa-file-pdf"></i></a>
 
