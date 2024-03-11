@@ -10,7 +10,12 @@ redirect_from:
 
 I am currently a Ph.D. ~~student~~ candidate (Dec, 2023) at ECE@Purdue. I am supervised by [Dr. James Davis](https://davisjam.github.io/).
 
-My research focuses on advancing AI **safety** and **utility**, with a current emphasis on *improving reusability, trustworthiness, and security within pre-trained deep learning model ecosystems*.
+My research interest is focused on <ins>SE4AI</ins>, and <ins>Responsible AI</ins>. I current work on advancing AI **safety/security** and **utility**, more specifically on *improving reusability, trustworthiness, and security of pre-trained deep learning models (**PTM**s)* from model registries/hubs, such as Hugging Face.
+
+Here is a list of projects that I am working on
+- _Trustworthiness_: Anomaly detection for PTM naming and architectural defects.
+- _Reusability_: PTM recommendation system considering engineering requirements.
+- _Security_: Defense against Pickle deserialization vulnerabilities in PTMs.
 
 My work has been published at **MSR'24, ICSE'23, MSR'23, ESEC/FSE'22, ASE'22, and SCORED'22**.
 
