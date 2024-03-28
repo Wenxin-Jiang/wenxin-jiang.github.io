@@ -7,7 +7,7 @@ author_profile: true
 
 
 1. *Naming Practices of Pre-Trained Models in Hugging Face*.   
- **Jiang**, Cheung, Thiruvathukal, Davis.   
+ **Jiang**, Cheung, Kim, Kim, Thiruvathukal, Davis.   
  arXiv 2024.  
  <a href="{{ site.url }}/files/publications/PTMNaming.pdf"><i class="fas fa-file-pdf"></i></a>
 
