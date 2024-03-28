@@ -4,16 +4,22 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+
+1. *Naming Practices of Pre-Trained Models in Hugging Face*.   
+ **Jiang**, Cheung, Thiruvathukal, Davis.   
+ arXiv 2024.  
+ <a href="{{ site.url }}/files/publications/PTMNaming.pdf"><i class="fas fa-file-pdf"></i></a>
+
+ <!-- <a href="https://arxiv.org/pdf/2310.01642"><i class="fas fa-file-pdf"></i></a> -->
+
+
+
 1. *PeaTMOSS: Mining Pre-Trained Models in Open-Source Software*.   
  **Jiang**, Yasmin, Jones, Synovic, Kuo, Bielanski, Tian, Thiruvathukal, and Davis.   
  Proceedings of the 21th International Conference on Mining Software Repositories (MSR) 2024.  
  <a href="{{ site.url }}/files/publications/MSR24_PeaTMOSS.pdf"><i class="fas fa-file-pdf"></i></a>
 
-
-1. *Exploring Naming Conventions (and Defects) of Pre-trained Deep Learning Models in Hugging Face and Other Model Hubs*.   
- **Jiang**, Cheung, Thiruvathukal, Davis.   
- arXiv 2023   
- <a href="https://arxiv.org/pdf/2310.01642"><i class="fas fa-file-pdf"></i></a>
 
 
 1. *Reusing Deep Learning Models: Challenges and Directions in Software Engineering*.   
