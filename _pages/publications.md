@@ -19,7 +19,7 @@ author_profile: true
  **Jiang**, Yasmin, Jones, Synovic, Kuo, Bielanski, Tian, Thiruvathukal, and Davis.   
  Proceedings of the 21th International Conference on Mining Software Repositories (MSR) 2024.  
  <a href="{{ site.url }}/files/publications/MSR24_PeaTMOSS.pdf"><i class="fas fa-file-pdf"></i></a>
-
+ <a href="{{ site.url }}/files/publications/MSR24_PeaTMOSS.pptx"><i class="fas fa-file-powerpoint"></i></a>
 
 
 1. *Reusing Deep Learning Models: Challenges and Directions in Software Engineering*.   
