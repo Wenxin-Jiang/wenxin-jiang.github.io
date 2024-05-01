@@ -15,6 +15,7 @@ redirect_from:
 <!-- [CV (short) [PDF]](https://wenxin-jiang.github.io/files/CV_short.pdf) -->
 
 
+---
 Education
 ======
 
@@ -23,6 +24,7 @@ Education
 * B.S. in Applied Physics, Southeast University, 2016 - 2020
   * Study Abroad Program in Engineering Physics, UC Santa Barbara, 2019
 
+---
 Research Experience
 ======
 * Graduate Research Assistant (Jan 2021 - present)
@@ -44,6 +46,7 @@ Research Experience
   * Duties: Experimental observation of complex Kadomtsev-petviashvili solitons.
   * Supervisor: [Dr. Shihua Chen](https://physics.seu.edu.cn/2019/0116/c23159a258528/page.htm)
 
+---
 Work Experience
 ======
 * TensorFlow Model Developer (Fall 2021 - present)
