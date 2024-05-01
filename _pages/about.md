@@ -49,6 +49,8 @@ I am delighted to mentor and collaborate with the following students:
 ### Undergraduate
 > Graduated
 - [Diego Montes](https://www.linkedin.com/in/montes-diego/) (ECE@Purdue, Flight SE@SpaceX)
+- [Vishnu Banna](https://www.linkedin.com/in/vishnubanna/) (ECE@Purdue, MLEng@Apple)
+- [Naveen Vivek](https://www.linkedin.com/in/naveen-vivek/) (ECE@Purdue, SE@AMD)
 - [Feny Patel](https://www.linkedin.com/in/feny-patel/) (ECE@Purdue, SE@Meta) 
 - [David Li](https://www.linkedin.com/in/davidli12/) (ECE@Purdue, SE@Google)
 - [Allen Liu](https://www.linkedin.com/in/lenliu3/) (ECE@Purdue, SE@Amazon)
