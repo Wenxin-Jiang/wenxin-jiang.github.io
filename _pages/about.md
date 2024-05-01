@@ -61,6 +61,9 @@ I am delighted to mentor and collaborate with the following students:
 > Current 
 - [Chingwo Cheung](https://www.linkedin.com/in/chingwo-cheung/) (ECE@Purdue, MLEng@CIMS.AI)
 - [Mingyu Kim](https://www.linkedin.com/in/mingyu-ck-kim/) (ECE@Purdue)
+- [Arav Tewari](https://www.linkedin.com/in/arav-tewari/) (CS@Purdue)
+- [Nathaniel Bielanski](https://www.linkedin.com/in/nathaniel-bielanski-902780227/) (ECE@Purdue)
+- [Bhavesh Pareek](https://www.linkedin.com/in/bhavesh-pareek/) (CS@Purdue, SE inter@Amazon)
 - [Aaryan Srivastava](https://www.linkedin.com/in/aaryansriva/) (CS@Purdue)
 - [Adrien Qi](https://www.linkedin.com/in/aqi/) (CS+Math@Purdue, SE intern@Meta)
 - [Akshath Raghave R](https://www.linkedin.com/in/akshathrr/) (ECE@Purdue)
