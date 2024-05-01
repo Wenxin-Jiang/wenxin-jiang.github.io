@@ -52,6 +52,8 @@ I am delighted to mentor and collaborate with the following students:
 - [Vishnu Banna](https://www.linkedin.com/in/vishnubanna/) (ECE@Purdue, MLEng@Apple)
 - [Naveen Vivek](https://www.linkedin.com/in/naveen-vivek/) (ECE@Purdue, SE@AMD)
 - [Feny Patel](https://www.linkedin.com/in/feny-patel/) (ECE@Purdue, SE@Meta) 
+- [Zach Ghera](https://www.linkedin.com/in/zghera/) (CS@Purdue, SE@Google)
+- [Ananya Singh](https://www.linkedin.com/in/imananyasingh/) (CS+DS@Purdue, SE@Google)
 - [David Li](https://www.linkedin.com/in/davidli12/) (ECE@Purdue, SE@Google)
 - [Allen Liu](https://www.linkedin.com/in/lenliu3/) (ECE@Purdue, SE@Amazon)
 - [Heesoo Kim](https://www.linkedin.com/in/heesookiim/) (ECE@Purdue, SE intern@Samsung, Incoming MSc@Purdue)
