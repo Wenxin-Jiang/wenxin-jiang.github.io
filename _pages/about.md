@@ -56,10 +56,10 @@ I am delighted to mentor and collaborate with the following students:
 - [Ananya Singh](https://www.linkedin.com/in/imananyasingh/) (CS+DS@Purdue, SE@Google)
 - [David Li](https://www.linkedin.com/in/davidli12/) (ECE@Purdue, SE@Google)
 - [Allen Liu](https://www.linkedin.com/in/lenliu3/) (ECE@Purdue, SE@Amazon)
-- [Heesoo Kim](https://www.linkedin.com/in/heesookiim/) (ECE@Purdue, SE intern@Samsung, Incoming MSc@Purdue)
 - [Pongpatapee (Dan) Peerapatanapokin](https://www.linkedin.com/in/pongpatapee-peerapatanapokin/) (ECE@Purdue, Application Analyst@Cummins)
-- [Shen Kuo](https://www.linkedin.com/in/shen-kuo-8a7a821b0/) (CS@Purdue, Incoming MSc@Purdue)
 - [Ibrahim Saeed](https://www.linkedin.com/in/ibrahimsaeed1/) (CS@Purdue, SE@Magnite)
+- [Shen Kuo](https://www.linkedin.com/in/shen-kuo-8a7a821b0/) (CS@Purdue, Pursuing MSc@Purdue)
+- [Heesoo Kim](https://www.linkedin.com/in/heesookiim/) (ECE@Purdue, SE intern@Samsung, Pursuing MSc@Purdue)
 - [Matt Hyatt](https://mhyatt000.github.io/) (CS@Loyola University Chicago)
 
 > Current 
