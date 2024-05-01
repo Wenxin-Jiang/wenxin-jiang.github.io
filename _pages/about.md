@@ -45,20 +45,26 @@ I am delighted to mentor and collaborate with the following students:
 
 
 ### Undergraduate
+> Graduated
+- [Diego Montes](https://www.linkedin.com/in/montes-diego/) (ECE@Purdue, Flight SE@SpaceX)
+- [Feny Patel](https://www.linkedin.com/in/feny-patel/) (ECE@Purdue, SE@Meta) 
+- [David Li](https://www.linkedin.com/in/davidli12/) (ECE@Purdue, SE@Google)
+- [Allen Liu](https://www.linkedin.com/in/lenliu3/) (ECE@Purdue, SE@Amazon)
+- [Heesoo Kim](https://www.linkedin.com/in/heesookiim/) (ECE@Purdue, SE intern@Samsung, Incoming MSc@Purdue)
+- [Pongpatapee (Dan) Peerapatanapokin](https://www.linkedin.com/in/pongpatapee-peerapatanapokin/) (ECE@Purdue, Application Analyst@Cummins)
+- [Shen Kuo](https://www.linkedin.com/in/shen-kuo-8a7a821b0/) (CS@Purdue, Incoming MSc@Purdue)
+- [Ibrahim Saeed](https://www.linkedin.com/in/ibrahimsaeed1/) (CS@Purdue, SE@Magnite)
+- [Matt Hyatt](https://mhyatt000.github.io/) (CS@Loyola University Chicago)
+
+> Current 
 - [Chingwo Cheung](https://www.linkedin.com/in/chingwo-cheung/) (ECE@Purdue, MLEng@CIMS.AI)
 - [Mingyu Kim](https://www.linkedin.com/in/mingyu-ck-kim/) (ECE@Purdue)
-- [Heesoo Kim](https://www.linkedin.com/in/heesookiim/) (ECE@Purdue, SE intern@Samsung)
 - [Aaryan Srivastava](https://www.linkedin.com/in/aaryansriva/) (CS@Purdue)
 - [Adrien Qi](https://www.linkedin.com/in/aqi/) (CS+Math@Purdue, SE intern@Meta)
 - [Akshath Raghave R](https://www.linkedin.com/in/akshathrr/) (ECE@Purdue)
 - [Dulani Wijayarathne](https://www.linkedin.com/in/dulaninw/) (ECE@purdue)
-- [Ibrahim Saeed](https://www.linkedin.com/in/ibrahimsaeed1/) (CS@Purdue, SE@Magnite)
 - [Isaac In](https://www.linkedin.com/in/isaac-in-a725941b9/) (CS@Purdue)
-- [Shen Kuo](https://www.linkedin.com/in/shen-kuo-8a7a821b0/) (CS@Purdue)
 - [Yash Mehta](https://www.linkedin.com/in/yash-mehta2005/) (CS@Purdue)
 - [Shiva Sai Vummaji](https://www.linkedin.com/in/shiva-sai-vummaji/) (CS+DS@Purdue)
-- [Diego Montes](https://www.linkedin.com/in/montes-diego/) (ECE@Purdue, Flight SE@SpaceX)
-- [Matt Hyatt](https://mhyatt000.github.io/) (CS@Loyola University Chicago)
 - [Rohan Sethi](https://ssl.cs.luc.edu/author/rohan-sethi/) (CS@Loyola University Chicago)
 - [Aryan Indarapu](https://www.linkedin.com/in/aryanindarapu/) (ECE@UIUC)
-- Rohan Sethi (CS@Loyola University Chicago)
