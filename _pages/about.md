@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Ph.D. ~~student~~ candidate (Dec, 2023) at ECE@Purdue. I am supervised by [Dr. James Davis](https://davisjam.github.io/).
 
-My research interest is mainly focused on <ins>Software engineering for AI (SE4AI)<ins>. I am also interested in studying <ins>machine learning systems<ins>, <ins>software supply chain security<ins>, and <ins>responsible AI<ins>.
+My research interest is mainly focused on **Software engineering for AI (SE4AI)**. I am also interested in studying *machine learning systems*, *software supply chain security*, and *responsible AI*.
 
 My work adapts methods from studies on traditional software package registries (e.g., NPM, PyPI) to **open-source pre-trained AI model (PTM) supply chain**. I currently work on developing novel approaches to enhancing multiple aspects of the PTM supply chain , including <ins>trustworthiness, reusability, and security<ins>.
 
@@ -32,3 +32,33 @@ I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](
 - **April 2024**: Previous REU student and collaborator [Matt Hyatt](https://mhyatt000.github.io/) receives NSF GRFP and DOD NDSEG fellowships. Big congrats to Matt! 🎉
 - **Feb 2024**: Our paper ``PeaTMOSS: A Dataset and Initial Analysis of Pre-Trained Models in Open-Source Software'' has been accepted to MSR 2024.
 - **Dec 2023**: Passed my Ph.D. preliminary exam! 🎉
+
+
+# Mentorship
+I am delighted to mentor and collaborate with the following students:
+
+### Ph.D.
+- [Nicholas Synovic](https://www.linkedin.com/in/nsynovic/) (CS@Loyola University Chicago)
+
+### MSc
+- [Jason Jones](https://www.linkedin.com/in/jonesjasonh/) (ECE@Purdue)
+
+
+### Undergraduate
+- [Chingwo Cheung](https://www.linkedin.com/in/chingwo-cheung/) (ECE@Purdue, MLEng@CIMS.AI)
+- [Mingyu Kim](https://www.linkedin.com/in/mingyu-ck-kim/) (ECE@Purdue)
+- [Heesoo Kim](https://www.linkedin.com/in/heesookiim/) (ECE@Purdue, SE intern@Samsung)
+- [Aaryan Srivastava](https://www.linkedin.com/in/aaryansriva/) (CS@Purdue)
+- [Adrien Qi](https://www.linkedin.com/in/aqi/) (CS+Math@Purdue, SE intern@Meta)
+- [Akshath Raghave R](https://www.linkedin.com/in/akshathrr/) (ECE@Purdue)
+- [Dulani Wijayarathne](https://www.linkedin.com/in/dulaninw/) (ECE@purdue)
+- [Ibrahim Saeed](https://www.linkedin.com/in/ibrahimsaeed1/) (CS@Purdue, SE@Magnite)
+- [Isaac In](https://www.linkedin.com/in/isaac-in-a725941b9/) (CS@Purdue)
+- [Shen Kuo](https://www.linkedin.com/in/shen-kuo-8a7a821b0/) (CS@Purdue)
+- [Yash Mehta](https://www.linkedin.com/in/yash-mehta2005/) (CS@Purdue)
+- [Shiva Sai Vummaji](https://www.linkedin.com/in/shiva-sai-vummaji/) (CS+DS@Purdue)
+- [Diego Montes](https://www.linkedin.com/in/montes-diego/) (ECE@Purdue, Flight SE@SpaceX)
+- [Matt Hyatt](https://mhyatt000.github.io/) (CS@Loyola University Chicago)
+- [Rohan Sethi](https://ssl.cs.luc.edu/author/rohan-sethi/) (CS@Loyola University Chicago)
+- [Aryan Indarapu](https://www.linkedin.com/in/aryanindarapu/) (ECE@UIUC)
+- Rohan Sethi (CS@Loyola University Chicago)
