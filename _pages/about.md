@@ -40,13 +40,13 @@ I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](
 I am delighted to mentor and collaborate with the following students:
 
 ### Ph.D.
-- [Purvish Jajal](https://www.linkedin.com/in/purvish-jajal-989774190/) (ECE@Purdue)
 - [Vishal Purohit](https://www.linkedin.com/in/vishalsp/) (ECE@Purdue, Research Intern@AMD Gen AI)
+- [Purvish Jajal](https://www.linkedin.com/in/purvish-jajal-989774190/) (ECE@Purdue)
 - [Nicholas Synovic](https://www.linkedin.com/in/nsynovic/) (CS@Loyola University Chicago)
 
 
 ### MSc
-- [Jason Jones](https://www.linkedin.com/in/jonesjasonh/) (ECE@Purdue)
+- [Jason Jones](https://www.linkedin.com/in/jonesjasonh/) (ECE@Purdue, SE@BotDojo)
 
 
 ### Undergraduate
