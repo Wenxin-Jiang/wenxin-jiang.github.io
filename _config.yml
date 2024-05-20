@@ -14,7 +14,7 @@ description              : &description "Ph.D. student in ECE@Purdue"
 url                      : https://wenxin-jiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Wenxin-Jiang/WenxinJiang.github.io"
-teaser                   : "images/profile_square.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "images/profile-ICSE25.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenxin Jiang"
-  avatar           : "profile.jpg"
+  avatar           : "profile-ICSE25.jpg"
   bio              : "Ph.D. Candidate, ECE@Purdue"
   location         : "West Lafayette, Indiana"
   employer         :
