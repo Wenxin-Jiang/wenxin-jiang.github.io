@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. ~~student~~ candidate (Dec, 2023) at ECE@Purdue. I am supervised by [Dr. James Davis](https://davisjam.github.io/).
+I am currently a Ph.D. ~~student~~ candidate (Dec, 2023) at ECE@Purdue. I am supervised by [Prof. James Davis](https://davisjam.github.io/).
 
 My research interest is mainly focused on **Software engineering for AI (SE4AI)**. I am also interested in studying *machine learning systems*, *software supply chain security*, and *trustworthy/responsible AI*.
 
