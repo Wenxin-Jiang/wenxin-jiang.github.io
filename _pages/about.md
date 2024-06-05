@@ -44,6 +44,7 @@ I am delighted to mentor and collaborate with the following students:
 - [Vishal Purohit](https://www.linkedin.com/in/vishalsp/) (ECE@Purdue, Research Intern@AMD Gen AI)
 - [Purvish Jajal](https://www.linkedin.com/in/purvish-jajal-989774190/) (ECE@Purdue)
 - [Nicholas Synovic](https://www.linkedin.com/in/nsynovic/) (CS@Loyola University Chicago)
+- [Jerin Yasmin](https://www.linkedin.com/in/jerinyasmin) (CS@Queen's University)
 
 
 ### MSc
