@@ -13,6 +13,14 @@ author_profile: true
  <a href="{{ site.url }}/files/publications/MSR24_PeaTMOSS.pptx"><i class="fas fa-file-powerpoint"></i></a>
 
 
+1. What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims.    
+Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
+ Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) 2024.
+ <a href="https://arxiv.org/abs/2406.08205"><i class="fas fa-file-pdf"></i></a>
+
+
+
+
 1. *An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry*.  
  **Jiang**, Synovic, Hyatt, Schorlemmer, Sethi, Lu, Thiruvathukal, and Davis.
  Proceedings of the 45th International Conference on Software Engineering (ICSE) 2023.  
