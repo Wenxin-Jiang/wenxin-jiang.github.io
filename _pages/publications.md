@@ -13,16 +13,24 @@ author_profile: true
  <a href="{{ site.url }}/files/publications/MSR24_PeaTMOSS.pptx"><i class="fas fa-file-powerpoint"></i></a>
 
 
+1. *Challenges and Practices of Deep Learning Model Reengineering: A Case Study on Computer Vision*.  
+ **Jiang**, Banna, Vivek, Goel, Synovic, Thiruvathukal, and Davis.  
+ Empirical Software Engineering (EMSE) 2024.
+ <a href="https://arxiv.org/abs/2303.07476"><i class="fas fa-file-pdf"></i></a>
+
+
 1. What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims.    
 Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
  Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) 2024. 
  <a href="https://arxiv.org/abs/2406.08205"><i class="fas fa-file-pdf"></i></a>
 
 
-1. *Challenges and Practices of Deep Learning Model Reengineering: A Case Study on Computer Vision*.  
- **Jiang**, Banna, Vivek, Goel, Synovic, Thiruvathukal, and Davis.  
- Empirical Software Engineering (EMSE) 2024.
- <a href="https://arxiv.org/abs/2303.07476"><i class="fas fa-file-pdf"></i></a>
+1. *Interoperability in Deep Learning: A User Survey and Failure Analysis of ONNX Model Converters*.  
+ Jajal, **Jiang**, Tewari, Woo, Lu, Thiruvathukal, and Davis.  
+ Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2024.
+ <a href="https://arxiv.org/abs/2303.17708"><i class="fas fa-file-pdf"></i></a>
+ <a href="{{ site.url }}/files/JajalJiangTewariWooLuThiruvathukalDavis-ONNXFailures-ONNXCommunityDay2023.pptx"><i class="fas fa-file-powerpoint"></i></a>
+
 
 
 
@@ -89,13 +97,6 @@ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
  arXiv 2024.  
  <a href="https://arxiv.org/pdf/2404.18801"><i class="fas fa-file-pdf"></i></a>
  
-
-1. *Analysis of Failures and Risks in Deep Learning Model Converters: A Case Study in the ONNX Ecosystem*.  
- Jajal, **Jiang**, Tewari, Woo, Lu, Thiruvathukal, and Davis.  
- arXiv 2023.  
- <a href="https://arxiv.org/abs/2303.17708"><i class="fas fa-file-pdf"></i></a>
- <a href="{{ site.url }}/files/JajalJiangTewariWooLuThiruvathukalDavis-ONNXFailures-ONNXCommunityDay2023.pptx"><i class="fas fa-file-powerpoint"></i></a>
-
 
 1. *An Experience Report on Machine Learning Reproducibility: Guidance for Practitioners and TensorFlow Model Garden Contributors*.  
  Banna, Chinnakotla, Yan, Vegesana, Vivek, Krishnappa, **Jiang**, Lu, Thiruvathukal, and Davis.  
