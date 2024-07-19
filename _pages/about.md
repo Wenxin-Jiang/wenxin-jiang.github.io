@@ -19,7 +19,7 @@ Here is a list of projects that I am actively working on:
 - _Reusability_: PTM recommendation system considering engineering requirements.
 - _Security_: Defense against Pickle deserialization vulnerabilities in PTMs.
 
-My work has been published at **MSR'24, ICSE'23, MSR'23, ESEC/FSE'22, ASE'22, and SCORED'22**.
+My work has been published at *ISSTA'24, ESEM'24, MSR'24, ICSE'23, MSR'23, ESEC/FSE'22, ASE'22, SCORED'22**, and *EMSE*.
 
 I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](https://engineering.purdue.edu/VIP/teams/tensorflow) (previously [TensorFlow Model Garden VIP team](https://engineering.purdue.edu/VIP/teams/pretrained-models-in-deep-learning) where we collaborated with Google).
 
