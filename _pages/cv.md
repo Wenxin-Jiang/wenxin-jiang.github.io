@@ -25,6 +25,22 @@ Education
   * Study Abroad Program in Engineering Physics, UC Santa Barbara, 2019
 
 ---
+
+---
+Work Experience
+======
+* Software Engineering Research Intern (July - October 2024)
+  * Topic:
+    * AI model Supply Chain Analysis and Security
+    * LLM-assisted software package typosquatting detection
+ 
+* TensorFlow Model Developer (Fall 2021 - present)
+  * Google x Purdue
+  * Topic: Develop high-quality and reproducible ML models.
+
+* Intern (Summer 2018)
+  * China Merchants Bank
+
 Research Experience
 ======
 * Graduate Research Assistant (Jan 2021 - present)
@@ -46,14 +62,6 @@ Research Experience
   * Duties: Experimental observation of complex Kadomtsev-petviashvili solitons.
   * Supervisor: [Dr. Shihua Chen](https://physics.seu.edu.cn/2019/0116/c23159a258528/page.htm)
 
----
-Work Experience
-======
-* TensorFlow Model Developer (Fall 2021 - present)
-  * Google x Purdue
-  * Topic: Develop high-quality and reproducible ML models.
 
-* Intern (Summer 2018)
-  * China Merchants Bank
 
   
