@@ -15,7 +15,7 @@ redirect_from:
 <!-- [CV (short) [PDF]](https://wenxin-jiang.github.io/files/CV_short.pdf) -->
 
 
----
+
 Education
 ======
 
@@ -26,20 +26,22 @@ Education
 
 ---
 
----
+
 Work Experience
 ======
 * Software Engineering Research Intern (July - October 2024)
+  * Employee: Socket Inc.
   * Topic:
     * AI model Supply Chain Analysis and Security
     * LLM-assisted software package typosquatting detection
  
 * TensorFlow Model Developer (Fall 2021 - present)
-  * Google x Purdue
+  * Employee: Google x Purdue
   * Topic: Develop high-quality and reproducible ML models.
 
 * Intern (Summer 2018)
-  * China Merchants Bank
+  * Employee: China Merchants Bank
+---
 
 Research Experience
 ======
