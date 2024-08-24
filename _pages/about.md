@@ -26,8 +26,9 @@ I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](
 --- 
 
 # News
+<!-- - **August 2024**: I will serve as a PC member for ICSE'25 artifact evaluation track. Excited to contribute to the community! -->
 - **August 2024**: Our EMSE paper "Challenges and Practices of Deep Learning Model Reengineering: A Case Study on Computer Vision" will be presetned at ASE'24 (journal-first track) 🎉! See you in Sacramento, CA.
-- **July 2024**: I am selected as a Shadow PC member for ICSE'25. Excited to learn more about the reviewing process and contribute to the community!
+- **July 2024**: I will serve as a Shadow PC member for ICSE'25. Excited to learn more about the reviewing process and contribute to the community!
 - **July 2024**: Our paper "Interoperability in Deep Learning: A User Survey and Failure Analysis of ONNX Model Converters" has been accepted to ISSTA'24 🎉!
 - **June 2024**: Our paper "Challenges and Practices of Deep Learning Model Reengineering: A Case Study on Computer Vision" has been accepted to EMSE 🎉!
 - **June 2024**: Our paper "What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims" has been accepted to ESEM'24 🎉!
