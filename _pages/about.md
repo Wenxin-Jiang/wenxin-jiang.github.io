@@ -26,9 +26,10 @@ I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](
 --- 
 
 # News
-<!-- - **August 2024**: I will serve as a PC member for ICSE'25 artifact evaluation track. Excited to contribute to the community! -->
+- **September 2024**: I will serve as a Junior PC member for MSR'25 research track.
+- **August 2024**: I will serve as a PC member for ICSE'25 artifact evaluation track.
 - **August 2024**: Our EMSE paper "Challenges and Practices of Deep Learning Model Reengineering: A Case Study on Computer Vision" will be presetned at ASE'24 (journal-first track) 🎉! See you in Sacramento, CA.
-- **July 2024**: I will serve as a Shadow PC member for ICSE'25. Excited to learn more about the reviewing process and contribute to the community!
+- **July 2024**: I will serve as a Shadow PC member for ICSE'25.
 - **July 2024**: Our paper "Interoperability in Deep Learning: A User Survey and Failure Analysis of ONNX Model Converters" has been accepted to ISSTA'24 🎉!
 - **June 2024**: Our paper "Challenges and Practices of Deep Learning Model Reengineering: A Case Study on Computer Vision" has been accepted to EMSE 🎉!
 - **June 2024**: Our paper "What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims" has been accepted to ESEM'24 🎉!
@@ -46,10 +47,15 @@ I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](
 I am delighted to mentor and collaborate with the following students:
 
 ### Ph.D.
+- [Huiyun Peng](https://www.linkedin.com/in/huiyun-peng-8b2037178/) (ECE@Purdue)
+- [Daniel Lugo](https://www.linkedin.com/in/danny-hocka-lugo-38503012b/) (ECE@Purdue)
+- [Haoyu Gao](https://www.linkedin.com/in/haoyu-gao-a66368246/) (CS@University of Melbourne)
+- [Jerin Yasmin](https://www.linkedin.com/in/jerinyasmin) (CS@Queen's University)
+- [Nicholas Synovic](https://www.linkedin.com/in/nsynovic/) (CS@Loyola University Chicago)
 - [Vishal Purohit](https://www.linkedin.com/in/vishalsp/) (ECE@Purdue, Research Intern@AMD Gen AI)
 - [Purvish Jajal](https://www.linkedin.com/in/purvish-jajal-989774190/) (ECE@Purdue)
-- [Nicholas Synovic](https://www.linkedin.com/in/nsynovic/) (CS@Loyola University Chicago)
-- [Jerin Yasmin](https://www.linkedin.com/in/jerinyasmin) (CS@Queen's University)
+
+
 
 
 ### MSc
