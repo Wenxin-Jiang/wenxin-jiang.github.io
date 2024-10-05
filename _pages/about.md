@@ -26,6 +26,7 @@ I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](
 --- 
 
 # News
+- **October 2024**: I will serve as a Junior PC member for TechDebt'25 research track.
 - **September 2024**: I will serve as a Junior PC member for MSR'25 research track.
 - **August 2024**: I will serve as a PC member for ICSE'25 artifact evaluation track.
 - **August 2024**: Our EMSE paper "Challenges and Practices of Deep Learning Model Reengineering: A Case Study on Computer Vision" will be presetned at ASE'24 (journal-first track) 🎉! See you in Sacramento, CA.
