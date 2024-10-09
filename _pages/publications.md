@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Refereed Conference Publications
+## Refereed Conference/Journal Publications
 1. *PeaTMOSS: A Dataset and Initial Analysis of Pre-Trained Models in Open-Source Software*.   
  **Jiang**, Yasmin, Jones, Synovic, Kuo, Bielanski, Tian, Thiruvathukal, and Davis.   
  Proceedings of the 21th International Conference on Mining Software Repositories (MSR) 2024.  
