@@ -86,6 +86,12 @@ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
  
 ## Technical Reports
 
+
+1. *Large Language Models for Energy-Efficient Code: Emerging Results and Future Directions*.   
+Peng, Gupte, Eliopoulos, Ho, Mantri, Deng, **Jiang**, Lu, Läufer, Thiruvathukal, Davis.   
+ arXiv 2024.  
+ <a href="https://arxiv.org/pdf/2410.09241"><i class="fas fa-file-pdf"></i></a>
+
 1. *Naming Practices of Pre-Trained Models in Hugging Face*.   
  **Jiang**, Cheung, Kim, Kim, Thiruvathukal, Davis.   
  arXiv 2024.  
