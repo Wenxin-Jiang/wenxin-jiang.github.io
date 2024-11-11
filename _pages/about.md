@@ -61,7 +61,7 @@ I am delighted to mentor and collaborate with the following students:
 
 ### MSc
 - [Jason Jones](https://www.linkedin.com/in/jonesjasonh/) (ECE@Purdue, SE@BotDojo)
-
+- [Parth Patil](https://www.linkedin.com/in/parthvpatil/) (ECE@Purdue)
 
 ### Undergraduate
 > Graduated
