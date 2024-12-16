@@ -20,6 +20,7 @@ Education
 ======
 
 * Ph.D in Computer Engineering, Purdue University, 2020 - present
+  * M.S. in Computer Engineering, Purdue University, 2024
 
 * B.S. in Applied Physics, Southeast University, 2016 - 2020
   * Study Abroad Program in Engineering Physics, UC Santa Barbara, 2019

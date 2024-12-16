@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. ~~student~~ candidate (Dec, 2023) at ECE@Purdue. I am supervised by [Prof. James C. Davis](https://davisjam.github.io/).
+I am currently a Ph.D. ~~student~~ candidate (Dec, 2023) at ECE@Purdue. I am supervised by [Prof. James C. Davis](https://davisjam.github.io/). **I am on the job market this year!**
 
 My research interest is mainly focused on **Software engineering for AI (SE4AI)**. I am also interested in studying *machine learning systems*, *software supply chain security*, and *trustworthy/responsible AI*.
 
@@ -26,6 +26,8 @@ I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](
 --- 
 
 # News
+- **December 2024**: Our paper "Recommending Pre-Trained Models for IoT Devices" has been accepted to SERP4IoT'25! 🎉
+- **December 2024**: I finished my 6-month internship at [Socket](https://socket.dev/) as a *Research Intern*! I am very grateful for the opportunity to work with such a great team and learn a lot from them.
 - **October 2024**: I will serve as a Junior PC member for TechDebt'25 research track.
 - **September 2024**: I will serve as a Junior PC member for MSR'25 research track.
 - **August 2024**: I will serve as a PC member for ICSE'25 artifact evaluation track.
