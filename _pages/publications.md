@@ -69,8 +69,7 @@ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
 
 1. *Recommending pre-trained models for IoT devices*.  
  Patil, **Jiang**, Peng, Lugo, Kalu, LeBlanc, Smith, Heo, Aou, andDavis
- Proceedings of the 1st ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED) 2022.  
- <a href="{{ site.url }}/files/publications/JiangSynovicSethiIndarapuHyattSchorlemmerThiruvathukalDavis-PTMSupplyChain-SCORED22.pdf"><i class="fas fa-file-pdf"></i></a> <a href="{{ site.url }}/files/publications/JiangSynovicSethiIndarapuHyattSchorlemmerThiruvathukalDavis-PTMSupplyChain-SCORED22-slides.pptx"><i class="fas fa-file-powerpoint"></i></a> <a href="https://medium.com/@jiang784/an-empirical-study-of-artifacts-and-security-risks-in-the-pre-trained-model-supply-chain-fc9dde611595"><i class="fab fa-medium"></i></a>
+ Proceedings of the 7th International Workshop on Software Engineering Research & Practices for the Internet of Things (SERP4IoT) 2024.  
 
 1. *An Empirical Study of Artifacts and Security Practices in the Pre-trained Model Supply Chain*.  
  **Jiang**, Synovic, Sethi, Indarapu, Hyatt, Schorlemmer, Thiruvathukal, and Davis.  
