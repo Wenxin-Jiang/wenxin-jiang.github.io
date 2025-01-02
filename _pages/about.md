@@ -19,14 +19,14 @@ Here is a list of projects that I am actively working on:
 - _Reusability_: PTM recommendation system considering engineering requirements.
 - _Security_: Defense against Pickle deserialization vulnerabilities in PTMs.
 
-My work has been published at **ISSTA'24, ESEM'24, MSR'24, ICSE'23, MSR'23, ESEC/FSE'22, ASE'22, SCORED'22**, and **EMSE**.
+My work has been published at **EMSE'24**, **ISSTA'24, ESEM'24, MSR'24, ICSE'23, MSR'23, ESEC/FSE'22, ASE'22, SCORED'22**.
 
 I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](https://engineering.purdue.edu/VIP/teams/tensorflow) (previously [TensorFlow Model Garden VIP team](https://engineering.purdue.edu/VIP/teams/pretrained-models-in-deep-learning) where we collaborated with Google).
 
 --- 
 
 # News
-- **December 2024**: Our paper "Recommending Pre-Trained Models for IoT Devices" has been accepted to SERP4IoT'25! 🎉
+- **December 2024**: Our paper "Recommending Pre-Trained Models for IoT Devices" has been accepted to SERP4IoT'25 🎉 ! 
 - **December 2024**: I finished my 6-month internship at [Socket](https://socket.dev/) as a *Research Intern*! I am very grateful for the opportunity to work with such a great team and learn a lot from them.
 - **October 2024**: I will serve as a Junior PC member for TechDebt'25 research track.
 - **September 2024**: I will serve as a Junior PC member for MSR'25 research track.
