@@ -15,20 +15,20 @@ author_profile: true
 
 1. *Challenges and Practices of Deep Learning Model Reengineering: A Case Study on Computer Vision*.  
  **Jiang**, Banna, Vivek, Goel, Synovic, Thiruvathukal, and Davis.  
- Empirical Software Engineering (EMSE) 2024.
+ Empirical Software Engineering (EMSE) 2024.  
  <a href="https://arxiv.org/abs/2303.07476"><i class="fas fa-file-pdf"></i></a>
 
 
 1. What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims.    
 Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
- Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) 2024. 
+ Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) 2024.  
  <a href="https://arxiv.org/abs/2406.08205"><i class="fas fa-file-pdf"></i></a>
 
 
 1. *Interoperability in Deep Learning: A User Survey and Failure Analysis of ONNX Model Converters*.  
  Jajal, **Jiang**, Tewari, Woo, Lu, Thiruvathukal, and Davis.  
- Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2024.
- <a href="{{ site.url }}/files/publications/JajalJiangTewariWooLuThiruvathukalDavis_ISSTA.pdf"><i class="fas fa-file-pdf"></i></a>
+ Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2024.  
+ <a href="{{ site.url }}/files/publications/JajalJiangTewariWooLuThiruvathukalDavis_ISSTA.pdf"><i class="fas fa-file-pdf"></i></a>  
  <a href="{{ site.url }}/files/JajalJiangTewariWooLuThiruvathukalDavis-ONNXFailures-ONNXCommunityDay2023.pptx"><i class="fas fa-file-powerpoint"></i></a>
 
 
@@ -40,7 +40,7 @@ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
  Proceedings of the 45th International Conference on Software Engineering (ICSE) 2023.  
  <a href="{{ site.url }}/files/publications/ICSE23-PTMReuse.pdf"><i class="fas fa-file-pdf"></i></a> 
  <a href="{{ site.url }}/files/publications/ICSE23-PTMReuse-slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
- <a href="https://medium.com/@jiang784/an-empirical-study-of-pre-trained-model-reuse-in-the-hugging-face-deep-learning-model-registry-6a343597aaf0"><i class="fab fa-medium"></i></a>
+ <a href="https://medium.com/@jiang784/an-empirical-study-of-pre-trained-model-reuse-in-the-hugging-face-deep-learning-model-registry-6a343597aaf0"><i class="fab fa-medium"></i></a>  
 
 
 1. *PTMTorrent: A Dataset for Mining Open-source Pre-trained Model Packages*.  
@@ -49,7 +49,6 @@ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
  <a href="{{ site.url }}/files/publications/JiangSynovicJajalSchorlemmerTewariPareekThiruvathukalDavis-PTMTorrent-MSR23.pdf"><i class="fas fa-file-pdf"></i></a>
  <a href="{{ site.url }}/files/Jiang-PTMTorrent-MSR23-slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
  <a href="https://medium.com/@jiang784/an-empirical-study-of-pre-trained-model-reuse-in-the-hugging-face-deep-learning-model-registry-6a343597aaf0"><i class="fab fa-medium"></i></a>
- <!-- <a href="{{ site.url }}/files/publications/MontesPeerapatanapokinSchultzGuoJiangDavis-ModelZoo-FSE22IVR-slides.pptx"><i class="fas fa-file-powerpoint"></i></a> -->
 
 
 1. *Reusing Deep Learning Models: Challenges and Directions in Software Engineering*.   
@@ -68,8 +67,10 @@ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
 ## Refereed Workshop/Demonstration Publications
 
 1. *Recommending pre-trained models for IoT devices*.  
- Patil, **Jiang**, Peng, Lugo, Kalu, LeBlanc, Smith, Heo, Aou, andDavis
+ Patil, **Jiang**, Peng, Lugo, Kalu, LeBlanc, Smith, Heo, Aou, and Davis.  
  Proceedings of the 7th International Workshop on Software Engineering Research & Practices for the Internet of Things (SERP4IoT) 2024.  
+  <a href="https://arxiv.org/pdf/2412.18972"><i class="fas fa-file-pdf"></i></a>
+
 
 1. *An Empirical Study of Artifacts and Security Practices in the Pre-trained Model Supply Chain*.  
  **Jiang**, Synovic, Sethi, Indarapu, Hyatt, Schorlemmer, Thiruvathukal, and Davis.  
