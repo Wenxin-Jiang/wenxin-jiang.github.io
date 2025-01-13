@@ -26,6 +26,7 @@ I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](
 --- 
 
 # News
+- **January 2025**: I am grateful to be funded by [Socket](https://socket.dev/) during the spring semester, enabling me to conduct further research on software supply chain security.
 - **December 2024**: Our paper "Recommending Pre-Trained Models for IoT Devices" has been accepted to SERP4IoT'25 🎉 ! 
 - **December 2024**: I finished my 6-month internship at [Socket](https://socket.dev/) as a *Research Intern*! I am very grateful for the opportunity to work with such a great team and learn a lot from them.
 - **October 2024**: I will serve as a Junior PC member for TechDebt'25 research track.
