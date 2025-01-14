@@ -5,8 +5,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-ZLYB91VVHZ"
+    anonymize_ip: false # default
 ---
-
 
 I am currently a Ph.D. ~~student~~ candidate (Dec, 2023) at ECE@Purdue. I am supervised by [Prof. James C. Davis](https://davisjam.github.io/). **I am on the job market this year!**
 
