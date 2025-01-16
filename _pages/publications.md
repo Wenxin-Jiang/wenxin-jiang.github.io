@@ -28,7 +28,7 @@ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
 1. *Interoperability in Deep Learning: A User Survey and Failure Analysis of ONNX Model Converters*.  
  Jajal, **Jiang**, Tewari, Woo, Lu, Thiruvathukal, and Davis.  
  Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2024.  
- <a href="{{ site.url }}/files/publications/JajalJiangTewariWooLuThiruvathukalDavis_ISSTA.pdf"><i class="fas fa-file-pdf"></i></a>  
+ <a href="{{ site.url }}/files/publications/JajalJiangTewariWooLuThiruvathukalDavis_ISSTA.pdf"><i class="fas fa-file-pdf"></i></a>
  <a href="{{ site.url }}/files/JajalJiangTewariWooLuThiruvathukalDavis-ONNXFailures-ONNXCommunityDay2023.pptx"><i class="fas fa-file-powerpoint"></i></a>
 
 
