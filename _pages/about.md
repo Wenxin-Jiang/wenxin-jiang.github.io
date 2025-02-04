@@ -14,7 +14,7 @@ analytics:
 
 I am currently a Ph.D. ~~student~~ candidate (Dec, 2023) at ECE@Purdue. I am supervised by [Prof. James C. Davis](https://davisjam.github.io/). **I am on the job market this year!**
 
-My research interest is mainly focused on **Software engineering for AI (SE4AI)**. I am also interested in studying *machine learning systems*, *software supply chain security*, and *trustworthy/responsible AI*.
+My research interest is mainly focused on *Software engineering for AI (SE4AI)* and *AI Supply Chain Security*, and specifically on **improving the trustworthiness and reusability in open-source AI model supply chain**. I am also interested in studying *machine learning systems*, *software supply chain security*, and *trustworthy/responsible AI*.
 
 My work adapts methods from studies on traditional software package registries (e.g., NPM, PyPI) to **open-source pre-trained AI model (PTM) supply chain**. I currently work on developing novel approaches to enhancing multiple aspects of the PTM supply chain , including <ins>trustworthiness, reusability, and security<ins>.
 
