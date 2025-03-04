@@ -90,6 +90,10 @@ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
  
 ## Technical Reports
 
+1. *Detecting Active and Stealthy Typosquatting Threats in Package Registries*.   
+**Jiang**, Çakar, Lysenko, Davis   
+ arXiv 2025.  
+ <a href="https://arxiv.org/pdf/2502.20528"><i class="fas fa-file-pdf"></i></a>
 
 1. *Large Language Models for Energy-Efficient Code: Emerging Results and Future Directions*.   
 Peng, Gupte, Eliopoulos, Ho, Mantri, Deng, **Jiang**, Lu, Läufer, Thiruvathukal, Davis.   
