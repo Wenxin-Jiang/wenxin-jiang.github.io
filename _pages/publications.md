@@ -68,7 +68,7 @@ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
 
 1. *Recommending pre-trained models for IoT devices*.  
  Patil, **Jiang**, Peng, Lugo, Kalu, LeBlanc, Smith, Heo, Aou, and Davis.  
- Proceedings of the 7th International Workshop on Software Engineering Research & Practices for the Internet of Things (SERP4IoT) 2024.  
+ Proceedings of the 7th International Workshop on Software Engineering Research & Practices for the Internet of Things (SERP4IoT) 2025.  
   <a href="https://arxiv.org/pdf/2412.18972"><i class="fas fa-file-pdf"></i></a>
 
 
