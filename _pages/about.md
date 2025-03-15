@@ -24,6 +24,7 @@ Here is a list of projects that I am actively working on:
 - _Security_: Defense against Pickle deserialization vulnerabilities in PTMs.
 
 My work has been published at **EMSE'24**, **ISSTA'24, ESEM'24, MSR'24, ICSE'23, MSR'23, ESEC/FSE'22, ASE'22, SCORED'22**.
+I am also the recipient of the [Estus H. and Vashti L. Magoon Research Excellence Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate) in 2025!
 
 I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](https://engineering.purdue.edu/VIP/teams/tensorflow) (previously [TensorFlow Model Garden VIP team](https://engineering.purdue.edu/VIP/teams/pretrained-models-in-deep-learning) where we collaborated with Google).
 
