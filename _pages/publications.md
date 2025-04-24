@@ -19,8 +19,8 @@ author_profile: true
  <a href="https://arxiv.org/abs/2303.07476"><i class="fas fa-file-pdf"></i></a>
 
 
-1. What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims.    
-Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
+1. *What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims*.    
+ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
  Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) 2024.  
  <a href="https://arxiv.org/abs/2406.08205"><i class="fas fa-file-pdf"></i></a>
 
@@ -36,7 +36,7 @@ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
 
 
 1. *An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry*.  
- **Jiang**, Synovic, Hyatt, Schorlemmer, Sethi, Lu, Thiruvathukal, and Davis.
+ **Jiang**, Synovic, Hyatt, Schorlemmer, Sethi, Lu, Thiruvathukal, and Davis.  
  Proceedings of the 45th International Conference on Software Engineering (ICSE) 2023.  
  <a href="{{ site.url }}/files/publications/ICSE23-PTMReuse.pdf"><i class="fas fa-file-pdf"></i></a> 
  <a href="{{ site.url }}/files/publications/ICSE23-PTMReuse-slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
@@ -44,7 +44,7 @@ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
 
 
 1. *PTMTorrent: A Dataset for Mining Open-source Pre-trained Model Packages*.  
- **Jiang**, Synovic, Jajal, Schorlemmer, Tewari, Pareek, Thiruvathukal, and Davis.
+ **Jiang**, Synovic, Jajal, Schorlemmer, Tewari, Pareek, Thiruvathukal, and Davis.  
  Proceedings of the 20th International Conference on Mining Software Repositories (MSR) 2023.  
  <a href="{{ site.url }}/files/publications/JiangSynovicJajalSchorlemmerTewariPareekThiruvathukalDavis-PTMTorrent-MSR23.pdf"><i class="fas fa-file-pdf"></i></a>
  <a href="{{ site.url }}/files/Jiang-PTMTorrent-MSR23-slides.pptx"><i class="fas fa-file-powerpoint"></i></a>
@@ -118,3 +118,12 @@ Peng, Gupte, Eliopoulos, Ho, Mantri, Deng, **Jiang**, Lu, Läufer, Thiruvathukal
  <a href="https://arxiv.org/abs/2107.00821"><i class="fas fa-file-pdf"></i></a>
 
 
+
+# Dissertation
+
+1. *Trustworthy Reuse in the Machine Learning Model Supply Chain*.  
+ **Jiang**
+ Purdue University, 2025.  
+ <a href="{{ site.url }}/files/publications/TBD.pdf"><i class="fas fa-file-pdf"></i></a>
+ <a href="{{ site.url }}/files/WenxinJiangFinalDefense.pptx"><i class="fas fa-file-powerpoint"></i></a>
+ <a href="https://youtu.be/70sWq449MJY?si=w_4CrqOJrRePN33Z"><i class="fas fa-video"></i></a>

@@ -12,9 +12,10 @@ analytics:
     anonymize_ip: false # default
 ---
 
-I am currently a Ph.D. ~~student~~ candidate (Dec, 2023) at ECE@Purdue. I am supervised by [Prof. James C. Davis](https://davisjam.github.io/). **I am on the job market this year!**
+I am a Ph.D. ~~candidate (Dec, 2023)~~ (April, 2025) from ECE@Purdue. I am supervised by [Prof. James C. Davis](https://davisjam.github.io/).
 
-My research interest is mainly focused on *Software engineering for AI (SE4AI)* and *AI Supply Chain Security*, and specifically on **improving the trustworthiness and reusability in open-source AI model supply chain**. I am also interested in studying *machine learning systems*, *software supply chain security*, and *trustworthy/responsible AI*.
+My research interest is mainly focused on *Software engineering for AI (SE4AI)* and *AI Supply Chain Security*. 
+My doctoral thesis is titled **"Trustworthy Reuse in the Machine Learning Model Supply Chain"**. I am also interested in studying *machine learning systems*, *software supply chain security*, and *trustworthy/responsible AI*.
 
 My work adapts methods from studies on traditional software package registries (e.g., NPM, PyPI) to **open-source pre-trained AI model (PTM) supply chain**. I currently work on developing novel approaches to enhancing multiple aspects of the PTM supply chain , including <ins>trustworthiness, reusability, and security<ins>.
 
@@ -31,7 +32,8 @@ I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](
 --- 
 
 # News
-- **March 2025**: I am glad to be honored the [Estus H. and Vashti L. Magoon Research Excellence Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate)! 🎉
+- **April 2025**: I successfully defended my doctoral thesis titled "Trustworthy Reuse in the Machine Learning Model Supply Chain"! 🎉
+- **March 2025**: I am glad to be honored the [Magoon Research Excellence Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate)! 🎉
 - **January 2025**: I am grateful to be funded by [Socket](https://socket.dev/) during the spring semester, enabling me to conduct further research on software supply chain security.
 - **December 2024**: Our paper "Recommending Pre-Trained Models for IoT Devices" has been accepted to SERP4IoT'25 🎉 ! 
 - **December 2024**: I finished my 6-month internship at [Socket](https://socket.dev/) as a *Research Intern*! I am very grateful for the opportunity to work with such a great team and learn a lot from them.
