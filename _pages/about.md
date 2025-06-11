@@ -13,9 +13,7 @@ analytics:
 ---
 
 I am a Research Engineer at [Socket](https://socket.dev/).
-
 I obtained my Ph.D. from ECE@Purdue in May 2025 where I was supervised by [Prof. James C. Davis](https://davisjam.github.io/). 
-
 My research interest is mainly focused on *Software engineering for AI (SE4AI)* and *Software Supply Chain Security*. 
 
 My doctoral thesis is titled **"Trustworthy Reuse in the Machine Learning Model Supply Chain"**. I am also interested in studying *machine learning systems*, *software supply chain security*, and *trustworthy/responsible AI*.
