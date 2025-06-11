@@ -12,11 +12,13 @@ analytics:
     anonymize_ip: false # default
 ---
 
-I am a Ph.D. ~~candidate (Dec, 2023)~~ (April, 2025) from ECE@Purdue. I am supervised by [Prof. James C. Davis](https://davisjam.github.io/).
+I am a Research Engineer at [Socket](https://socket.dev/).
+
+I obtained my Ph.D. from ECE@Purdue in May 2025 where I was supervised by [Prof. James C. Davis](https://davisjam.github.io/). 
 
 My research interest is mainly focused on *Software engineering for AI (SE4AI)* and *Software Supply Chain Security*. 
-My doctoral thesis is titled **"Trustworthy Reuse in the Machine Learning Model Supply Chain"**. I am also interested in studying *machine learning systems*, *software supply chain security*, and *trustworthy/responsible AI*.
 
+My doctoral thesis is titled **"Trustworthy Reuse in the Machine Learning Model Supply Chain"**. I am also interested in studying *machine learning systems*, *software supply chain security*, and *trustworthy/responsible AI*.
 My work adapts methods from studies on traditional software package registries (e.g., NPM, PyPI) to **open-source pre-trained AI model (PTM) supply chain**. I currently work on developing novel approaches to enhancing multiple aspects of the PTM supply chain , including <ins>trustworthiness, reusability, and security<ins>.
 
 Here is a list of projects that I am actively working on:
@@ -27,12 +29,13 @@ Here is a list of projects that I am actively working on:
 My work has been published at **EMSE'24**, **ISSTA'24, ESEM'24, MSR'24, ICSE'23, MSR'23, ESEC/FSE'22, ASE'22, SCORED'22**.
 I am also the recipient of the [Estus H. and Vashti L. Magoon Research Excellence Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate) in 2025!
 
-I am also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](https://engineering.purdue.edu/VIP/teams/tensorflow) (previously [TensorFlow Model Garden VIP team](https://engineering.purdue.edu/VIP/teams/pretrained-models-in-deep-learning) where we collaborated with Google).
+Previously, I was also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](https://engineering.purdue.edu/VIP/teams/tensorflow) (previously [TensorFlow Model Garden VIP team](https://engineering.purdue.edu/VIP/teams/pretrained-models-in-deep-learning) where we collaborated with Google).
 
---- 
 
 # News
-- **April 2025**: I successfully defended my doctoral thesis titled "Trustworthy Reuse in the Machine Learning Model Supply Chain"! 🎉
+- **June 2025**: I joined [Socket](https://socket.dev/) as a *Research Engineer*! 🎉
+- **May 2025**: I obtained my doctoral degree from Purdue University! 🎉
+- **April 2025**: I successfully defended my doctoral proposal titled "Trustworthy Reuse in the Machine Learning Model Supply Chain"! 🎉
 - **March 2025**: I am glad to be honored the [Magoon Research Excellence Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate)! 🎉
 - **January 2025**: I am grateful to be funded by [Socket](https://socket.dev/) during the spring semester, enabling me to conduct further research on software supply chain security.
 - **December 2024**: Our paper "Recommending Pre-Trained Models for IoT Devices" has been accepted to SERP4IoT'25 🎉 ! 
