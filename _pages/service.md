@@ -4,8 +4,6 @@ title: "Service"
 author_profile: true
 ---
 
-# Service
-
 ## Conferences
 
 - Shadow PC member, ICSE 2026

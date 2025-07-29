@@ -4,10 +4,9 @@ title: "Mentorship"
 author_profile: true
 ---
 
-# Mentorship
 I am delighted to mentor and collaborate with the following students:
 
-### Ph.D.
+## Ph.D.
 - [Huiyun Peng](https://www.linkedin.com/in/huiyun-peng-8b2037178/) (ECE@Purdue)
 - [Daniel Lugo](https://www.linkedin.com/in/danny-hocka-lugo-38503012b/) (ECE@Purdue)
 - [Haoyu Gao](https://www.linkedin.com/in/haoyu-gao-a66368246/) (CS@University of Melbourne)
@@ -19,14 +18,14 @@ I am delighted to mentor and collaborate with the following students:
 
 
 
-### MSc
+## MSc
 <!-- > Graduated -->
 - [Jason Jones](https://www.linkedin.com/in/jonesjasonh/) (ECE@Purdue, SE@BotDojo)
 
 <!-- > Current -->
 - [Parth Patil](https://www.linkedin.com/in/parthvpatil/) (ECE@Purdue)
 
-### Undergraduate
+## Undergraduate
 <!-- > Graduated -->
 - [Diego Montes](https://www.linkedin.com/in/montes-diego/) (ECE@Purdue, Flight SE@SpaceX)
 - [Vishnu Banna](https://www.linkedin.com/in/vishnubanna/) (ECE@Purdue, MLEng@Apple)
