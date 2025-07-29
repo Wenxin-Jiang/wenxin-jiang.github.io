@@ -8,6 +8,12 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "Service"
+    url: /service/
+
+  - title: "Mentorship"
+    url: /mentorship/
     
   # - title: "Contact"
   #   url: /contact/
