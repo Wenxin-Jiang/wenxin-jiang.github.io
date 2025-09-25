@@ -36,6 +36,7 @@ Previously, I was also the leader of Purdue's [Pre-Trained Models in Deep Learni
 - **July 2025**: I will serve as a Shadow PC member for ICSE'26.
 - **July 2025**: I will serve as a PC member for SCORED'25.
 - **June 2025**: I will serve as a PC member for TechDebt'26.
+- **June 2025**: I will giving an invited talk "Trustworthy Reuse in the Model Supply Chain: How Far Are We?" at [LLMSC'25](https://llmsc.github.io/) (Co-located with ISSTA'25).
 - **June 2025**: I joined [Socket](https://socket.dev/) as a *Research Engineer*! 🎉
 - **May 2025**: I obtained my doctoral degree from Purdue University! 🎉
 - **April 2025**: I successfully defended my doctoral proposal titled "Trustworthy Reuse in the Machine Learning Model Supply Chain"! 🎉
