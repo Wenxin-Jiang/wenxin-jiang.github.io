@@ -6,6 +6,18 @@ author_profile: true
 ---
 
 ## Refereed Conference/Journal Publications
+1. *ConfuGuard: Using Metadata to Detect Active and Stealthy Package Confusion Attacks Accurately and at Scale*.  
+ **Jiang**, Çakar, Lysenko, and Davis.  
+ Proceedings of the 48th International Conference on Software Engineering (ICSE) 2026.  
+ <a href="https://arxiv.org/abs/2502.20528"><i class="fas fa-file-pdf"></i></a>
+
+
+1. *“I see models being a whole other thing”: an empirical study of pre-trained model naming conventions and a tool for enhancing naming consistency*.  
+ **Jiang**, Kim, Cheung, Koo, Thiruvathukal, and Davis.  
+ Empirical Software Engineering (EMSE) 2025.  
+ <a href="https://link.springer.com/content/pdf/10.1007/s10664-025-10711-4.pdf"><i class="fas fa-file-pdf"></i></a>
+
+
 1. *PeaTMOSS: A Dataset and Initial Analysis of Pre-Trained Models in Open-Source Software*.   
  **Jiang**, Yasmin, Jones, Synovic, Kuo, Bielanski, Tian, Thiruvathukal, and Davis.   
  Proceedings of the 21th International Conference on Mining Software Repositories (MSR) 2024.  
@@ -90,20 +102,15 @@ author_profile: true
  
 ## Technical Reports
 
-1. *Detecting Active and Stealthy Typosquatting Threats in Package Registries*.   
-**Jiang**, Çakar, Lysenko, Davis   
+1. *AgentHub: A Research Agenda for Agent Sharing Infrastructure*.   
+Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, Davis 
  arXiv 2025.  
- <a href="https://arxiv.org/pdf/2502.20528"><i class="fas fa-file-pdf"></i></a>
+ <a href="https://arxiv.org/pdf/2510.03495"><i class="fas fa-file-pdf"></i></a>
 
 1. *Large Language Models for Energy-Efficient Code: Emerging Results and Future Directions*.   
 Peng, Gupte, Eliopoulos, Ho, Mantri, Deng, **Jiang**, Lu, Läufer, Thiruvathukal, Davis.   
  arXiv 2024.  
  <a href="https://arxiv.org/pdf/2410.09241"><i class="fas fa-file-pdf"></i></a>
-
-1. *Naming Practices of Pre-Trained Models in Hugging Face*.   
- **Jiang**, Cheung, Kim, Kim, Thiruvathukal, Davis.   
- arXiv 2024.  
- <a href="https://arxiv.org/pdf/2310.01642"><i class="fas fa-file-pdf"></i></a>
 
 
 1. *A Partial Replication of MaskFormer in TensorFlow on TPUs for the TensorFlow Model Garden*.   

@@ -31,6 +31,7 @@ Previously, I was also the leader of Purdue's [Pre-Trained Models in Deep Learni
 
 
 # News
+- **October 2025**: Our paper "ConfuGuard: Using Metadata to Detect Active and Stealthy Package Confusion Attacks Accurately and at Scale" is accepted to ICSE'26 🎉!
 - **August 2025**: Our paper "PickleBall: Secure Deserialization of Pickle-based Machine Learning Models" is accepted to CCS'25 🎉!
 - **July 2025**: Our paper " 'I see models being a whole other thing': An Empirical Study of Pre-Trained Model Naming Conventions and A Tool for Enhancing Naming Consistency" is accepted to EMSE 🎉 ! 
 - **July 2025**: I will serve as a Shadow PC member for ICSE'26.
