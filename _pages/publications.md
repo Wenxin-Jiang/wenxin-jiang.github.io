@@ -12,6 +12,12 @@ author_profile: true
  <a href="https://arxiv.org/abs/2502.20528"><i class="fas fa-file-pdf"></i></a>
 
 
+1. *PickleBall: Secure Deserialization of Pickle-based Machine Learning Models*.  
+ Kellas, Christou, **Jiang**, Li, Simon, David, Kemerlis, Davis, and Yang.  
+ Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS) 2025.  
+ <a href="https://arxiv.org/abs/2508.15987"><i class="fas fa-file-pdf"></i></a>
+
+
 1. *“I see models being a whole other thing”: an empirical study of pre-trained model naming conventions and a tool for enhancing naming consistency*.  
  **Jiang**, Kim, Cheung, Koo, Thiruvathukal, and Davis.  
  Empirical Software Engineering (EMSE) 2025.  
@@ -103,9 +109,16 @@ author_profile: true
 ## Technical Reports
 
 1. *AgentHub: A Research Agenda for Agent Sharing Infrastructure*.   
-Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, Davis 
+Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, and Davis 
  arXiv 2025.  
  <a href="https://arxiv.org/pdf/2510.03495"><i class="fas fa-file-pdf"></i></a>
+
+
+1. *Software Dependencies 2.0: An Empirical Study of Reuse and Integration of Pre-Trained Models in Open-Source Projects*.   
+Yasmin, **Jiang**, Davis, and Tian  
+ arXiv 2025.  
+ <a href="https://arxiv.org/pdf/2509.06085"><i class="fas fa-file-pdf"></i></a>
+
 
 1. *Large Language Models for Energy-Efficient Code: Emerging Results and Future Directions*.   
 Peng, Gupte, Eliopoulos, Ho, Mantri, Deng, **Jiang**, Lu, Läufer, Thiruvathukal, Davis.   
