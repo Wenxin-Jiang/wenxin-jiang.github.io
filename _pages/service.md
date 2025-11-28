@@ -6,6 +6,7 @@ author_profile: true
 
 ## Conferences
 
+- PC member, CCS 2026 (Machine Learning and Security Track)
 - Shadow PC member, ICSE 2026
 - PC member, TechDebt 2026
 - PC member, SCORED 2025
