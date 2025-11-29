@@ -107,17 +107,16 @@ author_profile: true
  <a href="{{ site.url }}/files/publications/VeselskyWestAhlgrenGoelJiangLeeKimDavisThiruvathukalKlingensmith-V2VTrust-HotMobile.pdf"><i class="fas fa-file-pdf"></i></a>
  
 ## Technical Reports
+1. *Software Dependencies 2.0: An Empirical Study of Reuse and Integration of Pre-Trained Models in Open-Source Projects*.   
+Yasmin, **Jiang**, Davis, and Tian  
+ arXiv 2025.  
+ <a href="https://arxiv.org/pdf/2509.06085"><i class="fas fa-file-pdf"></i></a>
+
 
 1. *AgentHub: A Research Agenda for Agent Sharing Infrastructure*.   
 Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, and Davis 
  arXiv 2025.  
  <a href="https://arxiv.org/pdf/2510.03495"><i class="fas fa-file-pdf"></i></a>
-
-
-1. *Software Dependencies 2.0: An Empirical Study of Reuse and Integration of Pre-Trained Models in Open-Source Projects*.   
-Yasmin, **Jiang**, Davis, and Tian  
- arXiv 2025.  
- <a href="https://arxiv.org/pdf/2509.06085"><i class="fas fa-file-pdf"></i></a>
 
 
 1. *Large Language Models for Energy-Efficient Code: Emerging Results and Future Directions*.   
