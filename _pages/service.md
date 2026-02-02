@@ -6,6 +6,8 @@ author_profile: true
 
 ## Conferences
 
+- PC member, FSE 2026 (Ideas, Visions, and Reflections Track)
+- PC member, ICSME 2026 (Industry Track)
 - PC member, CCS 2026 (Machine Learning and Security Track)
 - Shadow PC member, ICSE 2026
 - PC member, TechDebt 2026
