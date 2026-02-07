@@ -32,6 +32,7 @@ Previously, I was the leader of Purdue's [Pre-Trained Models in Deep Learning VI
 
 
 # News
+- **February 2026**: I will serve as a PC member for ICSE'27 (Research Track).
 - **February 2026**: I will serve as a PC member for FSE'26 (Ideas, Visions, and Reflections Track).
 - **November 2025**: I will serve as a PC member for ICSME'26 (Industry Track).
 - **November 2025**: I will serve as a PC member for CCS'26 (Machine Learning and Security Track).
