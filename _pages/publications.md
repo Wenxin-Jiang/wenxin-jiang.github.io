@@ -51,8 +51,6 @@ author_profile: true
 
 
 
-
-
 1. *An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry*.  
  **Jiang**, Synovic, Hyatt, Schorlemmer, Sethi, Lu, Thiruvathukal, and Davis.  
  Proceedings of the 45th International Conference on Software Engineering (ICSE) 2023.  
@@ -83,6 +81,11 @@ author_profile: true
 
 
 ## Refereed Workshop/Demonstration Publications
+1. *AgentHub: A Research Agenda for Agent Sharing Infrastructure*.   
+Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, and Davis 
+ Proceedings of the International Conference on Software Engineering: Journal-Ahead Workshop (JAWs) 2026.  
+ <a href="https://arxiv.org/pdf/2510.03495"><i class="fas fa-file-pdf"></i></a>
+
 
 1. *Recommending pre-trained models for IoT devices*.  
  Patil, **Jiang**, Peng, Lugo, Kalu, LeBlanc, Smith, Heo, Aou, and Davis.  
@@ -112,11 +115,10 @@ Yasmin, **Jiang**, Davis, and Tian
  arXiv 2025.  
  <a href="https://arxiv.org/pdf/2509.06085"><i class="fas fa-file-pdf"></i></a>
 
-
-1. *AgentHub: A Research Agenda for Agent Sharing Infrastructure*.   
-Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, and Davis 
+1. *AI Safety in the Eyes of the Downstream Developer: A First Look at Concerns, Practices, and Challenges*.   
+Gao, Zahedi, **Jiang**, Lin, Davis, and Treude  
  arXiv 2025.  
- <a href="https://arxiv.org/pdf/2510.03495"><i class="fas fa-file-pdf"></i></a>
+ <a href="https://arxiv.org/pdf/2503.19444"><i class="fas fa-file-pdf"></i></a>
 
 
 1. *Large Language Models for Energy-Efficient Code: Emerging Results and Future Directions*.   
