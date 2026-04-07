@@ -32,6 +32,8 @@ Previously, I was the leader of Purdue's [Pre-Trained Models in Deep Learning VI
 
 
 # News
+- **April 2026**: I will serve as a PC member for FSE'27 (Research Track)
+- **March 2026**: Our poster "Model Lineage Recovery for AI/ML Supply Chain Security" will be presented at [AIX Summit East](https://ainextgenfoundation.org/aix2026/)!
 - **February 2026**: Our paper "AgentHub: A Research Agenda for Agent Sharing Infrastructure" is accepted to ICSE JAWs'26 with recommendation to journals (TOSEM/TSE) 🎉!
 - **February 2026**: I will serve as a PC member for ICSE'27 (Research Track).
 - **February 2026**: I will serve as a PC member for FSE'26 (Ideas, Visions, and Reflections Track).
