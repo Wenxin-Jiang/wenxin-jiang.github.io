@@ -14,15 +14,17 @@ analytics:
 
 I am a Research Engineer at [Socket](https://socket.dev/) where I work on software/AI supply chain security.
 I obtained my Ph.D. from ECE@Purdue in May 2025 where I was supervised by [Prof. James C. Davis](https://davisjam.github.io/). 
-My research interest is mainly focused on *Software engineering for AI (SE4AI)* and *Software Supply Chain Security*. 
+My research interest is mainly focused on *Software/AI Supply Chain Security* and *Software engineering for AI (SE4AI)*. 
 
 My doctoral thesis is titled **"Trustworthy Reuse in the Machine Learning Model Supply Chain"**. I am also interested in studying *machine learning systems*, *software supply chain security*, and *trustworthy/responsible AI*.
-My work adapts methods from studies on traditional software package registries (e.g., NPM, PyPI) to **open-source pre-trained AI model (PTM) supply chain**. I currently work on developing novel approaches to enhancing multiple aspects of the PTM supply chain , including <ins>trustworthiness, reusability, and security<ins>.
+My work adapted methods from studies on traditional software package registries (e.g., NPM, PyPI) to **open-source pre-trained AI model (PTM) supply chain**. 
+<!-- I currently work on developing --> -->
+<!-- developing novel approaches to enhancing multiple aspects of the PTM supply chain , including <ins>trustworthiness, reusability, and security<ins>. -->
 
-Here is a list of projects that I am actively working on:
+<!-- Here is a list of projects that I am actively working on:
 - _Trustworthiness_: Anomaly detection for PTM naming and architectural defects.
 - _Reusability_: PTM recommendation system considering engineering requirements.
-- _Security_: Defense against Pickle deserialization vulnerabilities in PTMs.
+- _Security_: Defense against Pickle deserialization vulnerabilities in PTMs. -->
 
 My work has been mostly published at software engineering venues (**ICSE**, **FSE**, **ASE**, **ISSTA**, **EMSE**, **ESEM**, **MSR**), and security venues (**CCS**, **SCORED**).
 
