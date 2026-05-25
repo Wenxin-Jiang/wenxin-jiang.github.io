@@ -14,23 +14,21 @@ analytics:
 
 I am a Research Engineer at [Socket](https://socket.dev/) where I work on software/AI supply chain security.
 I obtained my Ph.D. from ECE@Purdue in May 2025 where I was supervised by [Prof. James C. Davis](https://davisjam.github.io/). 
-My research interest is mainly focused on *Software/AI Supply Chain Security* and *Software engineering for AI (SE4AI)*. 
+My research interest is mainly focused on *Software/AI Supply Chain Security* and *Software engineering for AI (SE4AI)*. I am also interested in studying *machine learning systems*, *software supply chain security*, and *trustworthy/responsible AI*.
+My work has been published in software engineering venues (**ICSE**, **FSE**, **ASE**, **ISSTA**, **EMSE**, **ESEM**, **MSR**), and security venues (**CCS**, **SCORED**). My doctoral disis is titled **"Trustworthy Reuse in the Machine Learning Model Supply Chain"**, where I adapted methods from studies on traditional software package registries to **open-source pre-trained AI model (PTM) supply chain**. 
 
-My doctoral thesis is titled **"Trustworthy Reuse in the Machine Learning Model Supply Chain"**. I am also interested in studying *machine learning systems*, *software supply chain security*, and *trustworthy/responsible AI*.
-My work adapted methods from studies on traditional software package registries (e.g., NPM, PyPI) to **open-source pre-trained AI model (PTM) supply chain**. 
-<!-- I currently work on developing --> -->
+Previously, I was also the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](https://engineering.purdue.edu/VIP/teams/tensorflow) (previously [TensorFlow Model Garden VIP team](https://engineering.purdue.edu/VIP/teams/pretrained-models-in-deep-learning) where we collaborated with Google).
+I am also honored to be the recipient of the [Estus H. and Vashti L. Magoon Research Excellence Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate) in 2025!
+
+
+<!-- I currently work on developing -->
 <!-- developing novel approaches to enhancing multiple aspects of the PTM supply chain , including <ins>trustworthiness, reusability, and security<ins>. -->
-
 <!-- Here is a list of projects that I am actively working on:
 - _Trustworthiness_: Anomaly detection for PTM naming and architectural defects.
 - _Reusability_: PTM recommendation system considering engineering requirements.
 - _Security_: Defense against Pickle deserialization vulnerabilities in PTMs. -->
 
-My work has been mostly published at software engineering venues (**ICSE**, **FSE**, **ASE**, **ISSTA**, **EMSE**, **ESEM**, **MSR**), and security venues (**CCS**, **SCORED**).
 
-I am the recipient of the [Estus H. and Vashti L. Magoon Research Excellence Award](https://engineering.purdue.edu/Engr/People/Awards/Graduate) in 2025!
-
-Previously, I was the leader of Purdue's [Pre-Trained Models in Deep Learning VIP team](https://engineering.purdue.edu/VIP/teams/tensorflow) (previously [TensorFlow Model Garden VIP team](https://engineering.purdue.edu/VIP/teams/pretrained-models-in-deep-learning) where we collaborated with Google).
 
 
 # News
