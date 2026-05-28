@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ## Refereed Conference/Journal Publications
+1. *Software Dependencies 2.0: An Empirical Study of Reuse and Integration of Pre-Trained Models in Open-Source Projects*.   
+Yasmin, **Jiang**, Davis, and Tian  
+Empirical Software Engineering (EMSE) 2026.  
+ <a href="https://arxiv.org/pdf/2509.06085"><i class="fas fa-file-pdf"></i></a>
+
+
 1. *ConfuGuard: Using Metadata to Detect Active and Stealthy Package Confusion Attacks Accurately and at Scale*.  
  **Jiang**, Çakar, Lysenko, and Davis.  
  Proceedings of the 48th International Conference on Software Engineering (ICSE) 2026.  
@@ -110,11 +116,6 @@ Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, and Davis
  <a href="{{ site.url }}/files/publications/VeselskyWestAhlgrenGoelJiangLeeKimDavisThiruvathukalKlingensmith-V2VTrust-HotMobile.pdf"><i class="fas fa-file-pdf"></i></a>
  
 ## Technical Reports
-1. *Software Dependencies 2.0: An Empirical Study of Reuse and Integration of Pre-Trained Models in Open-Source Projects*.   
-Yasmin, **Jiang**, Davis, and Tian  
- arXiv 2025.  
- <a href="https://arxiv.org/pdf/2509.06085"><i class="fas fa-file-pdf"></i></a>
-
 1. *AI Safety in the Eyes of the Downstream Developer: A First Look at Concerns, Practices, and Challenges*.   
 Gao, Zahedi, **Jiang**, Lin, Davis, and Treude  
  arXiv 2025.  
