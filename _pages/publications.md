@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Refereed Conference/Journal Publications
+1. *AI Failure in the Eyes of the Downstream Developer: A First Look at Concerns, Practices, and Challenges*.   
+Gao, Zahedi, **Jiang**, Lin, Davis, and Treude  
+ Empirical Software Engineering (EMSE) 2026.  
+ <a href="https://arxiv.org/pdf/2503.19444"><i class="fas fa-file-pdf"></i></a>
+ 
 1. *Software Dependencies 2.0: An Empirical Study of Reuse and Integration of Pre-Trained Models in Open-Source Projects*.   
 Yasmin, **Jiang**, Davis, and Tian  
 Empirical Software Engineering (EMSE) 2026.  
@@ -116,11 +121,6 @@ Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, and Davis
  <a href="{{ site.url }}/files/publications/VeselskyWestAhlgrenGoelJiangLeeKimDavisThiruvathukalKlingensmith-V2VTrust-HotMobile.pdf"><i class="fas fa-file-pdf"></i></a>
  
 ## Technical Reports
-1. *AI Safety in the Eyes of the Downstream Developer: A First Look at Concerns, Practices, and Challenges*.   
-Gao, Zahedi, **Jiang**, Lin, Davis, and Treude  
- arXiv 2025.  
- <a href="https://arxiv.org/pdf/2503.19444"><i class="fas fa-file-pdf"></i></a>
-
 
 1. *Large Language Models for Energy-Efficient Code: Emerging Results and Future Directions*.   
 Peng, Gupte, Eliopoulos, Ho, Mantri, Deng, **Jiang**, Lu, Läufer, Thiruvathukal, Davis.   
