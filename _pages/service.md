@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Conferences
+- PC member, WWW 2027
 - PC member, ICSE 2027
 - PC member, ChainSEC 2027
 - PC member, AISec 2026

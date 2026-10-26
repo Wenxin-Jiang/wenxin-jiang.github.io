@@ -32,6 +32,7 @@ I am also honored to be the recipient of the [Estus H. and Vashti L. Magoon Rese
 
 
 # News
+- **October 2026**: I will serve as a PC member for [WWW'27](https://www2027.thewebconf.org/).
 - **August 2026**: I will serve as a PC member for [ChainSEC'27](https://chain-sec.github.io/).
 - **July 2026**: Our paper "AI Failure in the Eyes of the Downstream Developer: A First Look at Concerns, Practices, and Challenges" is accepted to EMSE'26 🎉!
 - **June 2026**: I will serve as a PC member for AISec'26.
