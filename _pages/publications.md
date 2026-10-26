@@ -121,6 +121,15 @@ Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, and Davis
  <a href="{{ site.url }}/files/publications/VeselskyWestAhlgrenGoelJiangLeeKimDavisThiruvathukalKlingensmith-V2VTrust-HotMobile.pdf"><i class="fas fa-file-pdf"></i></a>
  
 ## Technical Reports
+1. *Instant Software Factory*.
+**Jiang**, Lysenko.
+arXiv 2026.
+<a href="{{ site.url }}/files/publications/JiangLysenko_InstantSoftwareFactory.pdf"><i class="fas fa-file-pdf"></i></a>
+
+1. *Open Source Software, Closed Software Factory*.
+Davis, **Jiang**, Synovic, Thiruvathukal.
+arXiv 2026.
+<a href="{{ site.url }}/files/publications/DavisJiangSynovicThiruvathukalDavis_OpenSourceSoftwareClosedSoftwareFactory.pdf"><i class="fas fa-file-pdf"></i></a>
 
 1. *Large Language Models for Energy-Efficient Code: Emerging Results and Future Directions*.   
 Peng, Gupte, Eliopoulos, Ho, Mantri, Deng, **Jiang**, Lu, Läufer, Thiruvathukal, Davis.   
