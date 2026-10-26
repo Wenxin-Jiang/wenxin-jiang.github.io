@@ -124,12 +124,12 @@ Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, and Davis
 1. *Instant Software Factory*.
 **Jiang**, Lysenko.  
 arXiv 2026.  
-<a href="{{ site.url }}/files/publications/JiangLysenko_InstantSoftwareFactory.pdf"><i class="fas fa-file-pdf"></i></a>
+<a href="{{ site.url }}/files/publications/JiangLysenko-InstantSoftwareFactory.pdf"><i class="fas fa-file-pdf"></i></a>
 
 1. *Open Source Software, Closed Software Factory*.
 Davis, **Jiang**, Synovic, Thiruvathukal.  
 arXiv 2026.  
-<a href="{{ site.url }}/files/publications/DavisJiangSynovicThiruvathukalDavis_OpenSourceSoftwareClosedSoftwareFactory.pdf"><i class="fas fa-file-pdf"></i></a>
+<a href="{{ site.url }}/files/publications/DavisJiangSynovicThiruvathukal-OpenSourceClosedSoftwareFactory-TechReport2026.pdf"><i class="fas fa-file-pdf"></i></a>
 
 1. *VeriPort: Automated and Verified Patch Backporting at Scale*.
 Ghebremichael*, **Jiang***, Lysenko, Barslev, Enck, Karpravelos.  
