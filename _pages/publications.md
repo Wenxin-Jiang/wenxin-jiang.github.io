@@ -49,7 +49,7 @@ Empirical Software Engineering (EMSE) 2026.
 
 
 1. *What do we know about Hugging Face? A systematic literature review and quantitative validation of qualitative claims*.    
- Jones, **Jiang**, Synovic, Thiruvathukal, and Davis.
+ Jones, **Jiang**, Synovic, Thiruvathukal, and Davis. 
  Proceedings of the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) 2024.  
  <a href="https://arxiv.org/abs/2406.08205"><i class="fas fa-file-pdf"></i></a>
 
@@ -93,7 +93,7 @@ Empirical Software Engineering (EMSE) 2026.
 
 ## Refereed Workshop/Demonstration Publications
 1. *AgentHub: A Research Agenda for Agent Sharing Infrastructure*.   
-Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, and Davis 
+Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, and Davis.  
  Proceedings of the International Conference on Software Engineering: Journal-Ahead Workshop (JAWs) 2026.  
  <a href="https://arxiv.org/pdf/2510.03495"><i class="fas fa-file-pdf"></i></a>
 
@@ -122,14 +122,20 @@ Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, and Davis
  
 ## Technical Reports
 1. *Instant Software Factory*.
-**Jiang**, Lysenko.
-arXiv 2026.
+**Jiang**, Lysenko. 
+arXiv 2026. 
 <a href="{{ site.url }}/files/publications/JiangLysenko_InstantSoftwareFactory.pdf"><i class="fas fa-file-pdf"></i></a>
 
 1. *Open Source Software, Closed Software Factory*.
-Davis, **Jiang**, Synovic, Thiruvathukal.
-arXiv 2026.
+Davis, **Jiang**, Synovic, Thiruvathukal.  
+arXiv 2026.  
 <a href="{{ site.url }}/files/publications/DavisJiangSynovicThiruvathukalDavis_OpenSourceSoftwareClosedSoftwareFactory.pdf"><i class="fas fa-file-pdf"></i></a>
+
+1. *VeriPort: Automated and Verified Patch Backporting at Scale*.
+Ghebremichael*, **Jiang***, Lysenko, Barslev, Enck, Karpravelos.  
+arXiv 2026.  
+<a href="https://arxiv.org/abs/2606.22704"><i class="fas fa-file-pdf"></i></a>
+
 
 1. *Large Language Models for Energy-Efficient Code: Emerging Results and Future Directions*.   
 Peng, Gupte, Eliopoulos, Ho, Mantri, Deng, **Jiang**, Lu, Läufer, Thiruvathukal, Davis.   
