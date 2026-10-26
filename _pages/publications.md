@@ -122,8 +122,8 @@ Pautsch, Singla, **Jiang**, Peng, Hassanshahi, Läufer, Thiruvathukal, and Davis
  
 ## Technical Reports
 1. *Instant Software Factory*.
-**Jiang**, Lysenko. 
-arXiv 2026. 
+**Jiang**, Lysenko.  
+arXiv 2026.  
 <a href="{{ site.url }}/files/publications/JiangLysenko_InstantSoftwareFactory.pdf"><i class="fas fa-file-pdf"></i></a>
 
 1. *Open Source Software, Closed Software Factory*.
